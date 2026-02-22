@@ -107,7 +107,7 @@ const GAMES = [
             date: "2026-02-17",
             title: "Armored Frontline_ Warzone ユーザーが欲しい最新情報",
             codename: "",
-            pageCount: 10,
+            pageCount: 12,
             summary: "Armored Frontline_ Warzoneの最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/armored-frontline-warzone/issues/2026-02-17/page-01.webp"
