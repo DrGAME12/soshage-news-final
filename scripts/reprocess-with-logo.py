@@ -7,7 +7,7 @@ from pathlib import Path
 
 BASE = Path(r"c:\Users\foo\Downloads\soshageshin")
 GAMES_DIR = BASE / "games"
-LOGO = BASE / "assets" / "soshageshin_logo.png"
+LOGO = BASE / "testpy" / "unnamed (5).png"
 CONVERT_SCRIPT = BASE / "scripts" / "convert-pdf.py"
 OVERLAY_SCRIPT = BASE / "testpy" / "overlay_logo_on_pdfs.py"
 
