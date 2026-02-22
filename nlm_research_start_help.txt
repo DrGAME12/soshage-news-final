@@ -1,0 +1,26 @@
+﻿                                                                               
+ Usage: nlm research start [OPTIONS] QUERY                                     
+                                                                               
+ Start a research task to find new sources.                                    
+                                                                               
+ This searches the web or Google Drive to discover relevant sources            
+ for your research topic. Use 'nlm research status' to check progress          
+ and 'nlm research import' to add discovered sources to your notebook.         
+                                                                               
+┌─ Arguments ─────────────────────────────────────────────────────────────────┐
+│ *    query      TEXT  What to search for [required]                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+┌─ Options ───────────────────────────────────────────────────────────────────┐
+│ --source       -s      TEXT  Where to search: web or drive [default: web]   │
+│ --mode         -m      TEXT  Research mode: fast (~30s, ~10 sources) or     │
+│                              deep (~5min, ~40 sources, web only)            │
+│                              [default: fast]                                │
+│ --notebook-id  -n      TEXT  Add to existing notebook                       │
+│ --title        -t      TEXT  Title for new notebook                         │
+│ --force        -f            Start new research even if one is already      │
+│                              pending                                        │
+│ --profile      -p      TEXT  Profile to use                                 │
+│ --help                       Show this message and exit.                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+

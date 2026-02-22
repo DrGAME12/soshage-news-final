@@ -1,0 +1,89 @@
+﻿[INFO] Switching to profile: c3
+
+==============================
+=== マジキッチン - MERGE KITCHEN - ===
+==============================
+[1/8] Creating notebook: マジキッチン - MERGE KITCHEN - ユーザーが欲しい最新情報 2026-02-17
+[2/8] Getting notebook ID...
+       Notebook ID: 509cec04-d7ee-49fa-8ddf-68ace066bc44
+[3/8] Starting fast research: マジキッチン - MERGE KITCHEN - 最新情報 公式 お知らせ アップデート イベント ガチャ 不具合 修正 配布
+       Research output: ✓ Research started
+  Query: マジキッチン - MERGE KITCHEN - 最新情報 公式 お知らせ アップデート 
+イベント ガチャ 不具合 修正 配布
+  Source: web
+  Mode: fast
+  Notebook ID: 509cec04-d7ee-49fa-8ddf-68ace066bc44
+  Task ID: 64c8c6e7-b3ed-4a5d-8e14-cc3650ed59fa
+
+Estimated time: ~30 seconds
+Run 'nlm research status 509cec04-d7ee-49fa-8ddf-68ace066bc44' to check 
+progress.
+
+       Task ID: 509cec04-d7ee-49fa-8ddf-68ace066bc44
+[4/8] Waiting for research to complete...
+       Research complete. Importing...
+       Import done.
+[5/8] Saving source info...
+[6/8] Generating SEO data...
+[7/8] Generating slides...
+[8/8] Downloading PDF...
+powershell : Error: D
+ownload failed for sl
+ide_deck.
+発生場所 行:1 文字:90
++ ... ing]::UTF8; pow
+ershell -ExecutionPol
+icy Bypass -File "C:\
+Users\foo\co ...
++                 ~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Error:    
+ Download failed     
+for slide_deck.:    S
+tring) [], Remo    te
+Exception
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+[DONE] Saved PDF: C:\Users\foo\code\sochage-news\out\pdf\マジキッチン - MERGE KITCHEN - ユーザーが欲しい最新情報 2026-02-17.pdf
+
+==============================
+=== バトオペ２ ===
+==============================
+[1/8] Creating notebook: バトオペ２ ユーザーが欲しい最新情報 2026-02-17
+[2/8] Getting notebook ID...
+       Notebook ID: 8988725b-2636-4f15-bb50-fc351f425b68
+[3/8] Starting fast research: バトオペ２ 最新情報 公式 お知らせ アップデート イベント ガチャ 不具合 修正 配布
+       Research output: ✓ Research started
+  Query: バトオペ２ 最新情報 公式 お知らせ アップデート イベント ガチャ 不具合 
+修正 配布
+  Source: web
+  Mode: fast
+  Notebook ID: 8988725b-2636-4f15-bb50-fc351f425b68
+  Task ID: 08aab2ba-c8c6-484b-87f3-0ffd01854d6f
+
+Estimated time: ~30 seconds
+Run 'nlm research status 8988725b-2636-4f15-bb50-fc351f425b68' to check 
+progress.
+
+       Task ID: 8988725b-2636-4f15-bb50-fc351f425b68
+[4/8] Waiting for research to complete...
+       Research complete. Importing...
+       Import done.
+[5/8] Saving source info...
+[6/8] Generating SEO data...
+[7/8] Generating slides...
+[8/8] Downloading PDF...
+Error: Download faile
+d for slide_deck.
+[DONE] Saved PDF: C:\Users\foo\code\sochage-news\out\pdf\バトオペ２ ユーザーが欲しい最新情報 2026-02-17.pdf
+
+==============================
+All done.
+==============================
+

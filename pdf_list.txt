@@ -1,0 +1,73 @@
+﻿python : Traceback (m
+ost recent call last)
+:
+発生場所 行:1 文字:1
++ python -c "import o
+s; [print(f) for f in
+ sorted(os.listdir(r'
+c:\Users ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Traceba   
+ ck (most recent     
+call last)::Stri    n
+g) [], RemoteEx    ce
+ption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+  File "<string>", li
+ne 1, in <module>
+    import os; [print
+(f) for f in sorted(o
+s.listdir(r'c:\Users\
+foo\Downloads\soshage
+shin')) if f.endswith
+('.pdf')]
+                ~~~~~
+^^^
+UnicodeEncodeError: '
+cp932' codec can't en
+code character '\xe9'
+ in position 3: illeg
+al multibyte sequence
+5th_Anniversary_Breaking_News.pdf
+60_Million_Strong_Ninja_Meta.pdf
+7th_Anniversary_Scoop.pdf
+All_Star_News_Snapshot.pdf
+Ask_Kingdom_Daily_9th_Anniversary.pdf
+CODM_Season_Two_Report.pdf
+Daily_RomSaGa_RS.pdf
+Dereste_Producer_Briefing.pdf
+Dokkan_Battle_11th_Anniversary_Report.pdf
+Dual_Ambition_War_Plan.pdf
+Durability_Warfare_2026.pdf
+EX_Rarity_Mega_Update_2026.pdf
+Ensemble_Stars_10th_Anniversary.pdf
+February_Dual_Game_Briefing.pdf
+Garupa_Daily_News_All_Updates.pdf
+Granblue_Times_February_Update_Summary.pdf
+Grand_Open_Survival_Guide.pdf
+Heban_4th_Anniversary_Festival.pdf
+Honmaru_Extra_Unju_Alert.pdf
+IDOLiSH7_DECENNIUM_Report.pdf
+Identity_V_Times_Weekly_Report.pdf
+Lineage_Observer_February_14_Edition.pdf
+Mahjong_Soul_Times_Extra_Edition.pdf
+Master_Duel_Anniversary_Report.pdf
+Mecha_Frontline_Gazette_2026_Debrief.pdf
+Memento_Mori_Strategic_Review.pdf
+Monst_Strike_February_Report.pdf
+Mt_Dingjun_Scenario_Briefing.pdf
+Night_Raven_Weekly_Briefing.pdf
+Nyanko_Sports_Latest_Scoop.pdf
+Origin_Launch_Briefing.pdf
+Othellonia_10th_Anniversary_Extra.pdf
+PAD_Zero_A_Gacha_Free_Future.pdf
+PawaSpo_Weekly_Game_Update.pdf
+PokoPoko_News_Flash.pdf

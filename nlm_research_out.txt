@@ -1,0 +1,11 @@
+﻿✓ Research started
+  Query: マジキッチン 最新情報
+  Source: web
+  Mode: fast
+  Notebook ID: 675ccbeb-1752-4b26-9244-d6f945e13a4c
+  Task ID: adb02863-4ad1-47f3-a2b7-74d4176c7ba8
+
+Estimated time: ~30 seconds
+Run 'nlm research status 675ccbeb-1752-4b26-9244-d6f945e13a4c' to check 
+progress.
+

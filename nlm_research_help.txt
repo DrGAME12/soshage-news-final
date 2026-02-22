@@ -1,0 +1,15 @@
+﻿                                                                               
+ Usage: nlm research [OPTIONS] COMMAND [ARGS]...                               
+                                                                               
+ Research and discover sources                                                 
+                                                                               
+┌─ Options ───────────────────────────────────────────────────────────────────┐
+│ --help          Show this message and exit.                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+┌─ Commands ──────────────────────────────────────────────────────────────────┐
+│ start   Start a research task to find new sources.                          │
+│ status  Check research task progress.                                       │
+│ import  Import discovered sources from a completed research task.           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+

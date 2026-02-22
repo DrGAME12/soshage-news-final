@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ソシャゲ新聞 — SOSHAGESHIN</title>
+    <link>https://soshageshin.pages.dev/</link>
+    <description>ソシャゲのアップデート情報を軍事新聞風にまとめた戦域情報サイト</description>
+    <language>ja</language>
+    <atom:link href="https://soshageshin.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2XKO 最新情報 — 2XKO</title>
+      <link>https://soshageshin.pages.dev/games/2xko/issues/2026-02-22/index.html</link>
+      <description>2XKO最新情報＋ゲームシステム＋キャラクター情報まとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>2xko_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ブレイブ フロンティア バーサス 最新情報 — ブレイブ フロンティア バーサス</title>
+      <link>https://soshageshin.pages.dev/games/brave-frontier-versus/issues/2026-02-22/index.html</link>
+      <description>ブレイブフロンティアバーサス最新情報＋攻略＋イベントまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>brave-frontier-versus_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ブラウザ三国志 天 最新情報 — ブラウザ三国志 天</title>
+      <link>https://soshageshin.pages.dev/games/browser-sangoku-ten/issues/2026-02-22/index.html</link>
+      <description>ブラウザ三国志天最新情報＋攻略＋アップデートまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>browser-sangoku-ten_2026-02-22</guid>
+    </item>
+    <item>
+      <title>Elysia_ アストラルフォール 最新情報 — Elysia アストラルフォール</title>
+      <link>https://soshageshin.pages.dev/games/elysia-astral-fall/issues/2026-02-22/index.html</link>
+      <description>Elysiaアストラルフォール最新情報＋ゲームシステム＋事前登録情報</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>elysia-astral-fall_2026-02-22</guid>
+    </item>
+    <item>
+      <title>エスターバニーポップガール 最新情報 — エスターバニーポップガール</title>
+      <link>https://soshageshin.pages.dev/games/ester-bunny-pop-girl/issues/2026-02-22/index.html</link>
+      <description>エスターバニーポップガール最新情報＋攻略まとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>ester-bunny-pop-girl_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ガンダムバトオペ2 戦略アップデート2026 — ガンダムバトルオペレーション2</title>
+      <link>https://soshageshin.pages.dev/games/gbo2/issues/2026-02-22/index.html</link>
+      <description>ガンダムバトルオペレーション2最新戦略アップデート＋新機体＋環境分析</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>gbo2_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ルミナ・アークの最弱無双 最新情報 — ルミナ・アークの最弱無双</title>
+      <link>https://soshageshin.pages.dev/games/lumina-arc/issues/2026-02-22/index.html</link>
+      <description>ルミナ・アーク最弱無双最新情報＋攻略＋キャラクター情報まとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>lumina-arc_2026-02-22</guid>
+    </item>
+    <item>
+      <title>メンヘラカノジョ 最新情報 — メンヘラカノジョ</title>
+      <link>https://soshageshin.pages.dev/games/menhera-kanojo/issues/2026-02-22/index.html</link>
+      <description>メンヘラカノジョ最新情報＋攻略＋ストーリーまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>menhera-kanojo_2026-02-22</guid>
+    </item>
+    <item>
+      <title>Necesse_ ネセス 最新情報 — Necesse ネセス</title>
+      <link>https://soshageshin.pages.dev/games/necesse/issues/2026-02-22/index.html</link>
+      <description>Necesse最新アップデート＋攻略＋ゲーム情報まとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>necesse_2026-02-22</guid>
+    </item>
+    <item>
+      <title>思い出のラーメン食堂　～心にしみる昭和シリーズ～ 最新情報 — 思い出のラーメン食堂</title>
+      <link>https://soshageshin.pages.dev/games/ramen-shokudo/issues/2026-02-22/index.html</link>
+      <description>思い出のラーメン食堂最新情報＋攻略＋レシピまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>ramen-shokudo_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ステラソラ 最新情報 — ステラソラ</title>
+      <link>https://soshageshin.pages.dev/games/stellasola/issues/2026-02-22/index.html</link>
+      <description>ステラソラ最新アップデート＋攻略＋イベント情報まとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>stellasola_2026-02-22</guid>
+    </item>
+    <item>
+      <title>トリッカル・もちもちほっペ大作戦 最新情報 — トリッカル・もちもちほっペ大作戦</title>
+      <link>https://soshageshin.pages.dev/games/trickle-mochimochi/issues/2026-02-22/index.html</link>
+      <description>トリッカルもちもちほっペ大作戦最新情報＋攻略まとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>trickle-mochimochi_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ウルトラマン パズルシュワッチ!! 最新情報 — ウルトラマン パズルシュワッチ!!</title>
+      <link>https://soshageshin.pages.dev/games/ultraman-puzzle/issues/2026-02-22/index.html</link>
+      <description>ウルトラマンパズルシュワッチ最新情報＋攻略＋イベントまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>ultraman-puzzle_2026-02-22</guid>
+    </item>
+    <item>
+      <title>unVEIL the world（アンベイル ザ ワールド） 最新情報 — unVEIL the world</title>
+      <link>https://soshageshin.pages.dev/games/unveil-the-world/issues/2026-02-22/index.html</link>
+      <description>unVEIL the world最新情報＋世界観＋ゲームシステムまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>unveil-the-world_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ワールドウィッチーズX 最新情報 — ワールドウィッチーズX</title>
+      <link>https://soshageshin.pages.dev/games/world-witches-x/issues/2026-02-22/index.html</link>
+      <description>ワールドウィッチーズX最新情報＋攻略＋イベントまとめ</description>
+      <pubDate>2026-02-22</pubDate>
+      <guid>world-witches-x_2026-02-22</guid>
+    </item>
+    <item>
+      <title>ぽこ あ ポケモン 最新情報 — ぽこ あ ポケモン</title>
+      <link>https://soshageshin.pages.dev/games/poko-a-pokemon/issues/2026-02-21/index.html</link>
+      <description>ぽこあポケモン最新情報＋攻略＋イベントまとめ</description>
+      <pubDate>2026-02-21</pubDate>
+      <guid>poko-a-pokemon_2026-02-21</guid>
+    </item>
+    <item>
+      <title>AYANEO NEXT 2 最新情報 — AYANEO NEXT 2</title>
+      <link>https://soshageshin.pages.dev/games/ayaneo-next-2/issues/2026-02-20/index.html</link>
+      <description>AYANEO NEXT 2最新スペック＋レビュー＋発売情報</description>
+      <pubDate>2026-02-20</pubDate>
+      <guid>ayaneo-next-2_2026-02-20</guid>
+    </item>
+    <item>
+      <title>龍が如く 極3 最新情報 — 龍が如く 極3</title>
+      <link>https://soshageshin.pages.dev/games/yakuza-kiwami-3/issues/2026-02-20/index.html</link>
+      <description>龍が如く極3最新情報＋攻略＋新要素まとめ</description>
+      <pubDate>2026-02-20</pubDate>
+      <guid>yakuza-kiwami-3_2026-02-20</guid>
+    </item>
+    <item>
+      <title>ARC Raiders ユーザーが欲しい最新情報 — ARC Raiders</title>
+      <link>https://soshageshin.pages.dev/games/arc-raiders/issues/2026-02-18/index.html</link>
+      <description>ARC Raidersの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>arc-raiders_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Be A Pro_ Football ユーザーが欲しい最新情報 — Be A Pro_ Football</title>
+      <link>https://soshageshin.pages.dev/games/be-a-pro-football/issues/2026-02-18/index.html</link>
+      <description>Be A Pro_ Footballの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>be-a-pro-football_2026-02-18</guid>
+    </item>
+    <item>
+      <title>バイオハザード サバイバルユニット ユーザーが欲しい最新情報 — バイオハザード サバイバルユニット</title>
+      <link>https://soshageshin.pages.dev/games/biohazard/issues/2026-02-18/index.html</link>
+      <description>バイオハザード サバイバルユニットの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>biohazard_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ブループロトコル：スターレゾナンス ユーザーが欲しい最新情報 — ブループロトコル：スターレゾナンス</title>
+      <link>https://soshageshin.pages.dev/games/blueprotocol/issues/2026-02-18/index.html</link>
+      <description>ブループロトコル：スターレゾナンス ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>blueprotocol_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ブレイブ ユーザーが欲しい最新情報 — ブレイブ</title>
+      <link>https://soshageshin.pages.dev/games/brave/issues/2026-02-18/index.html</link>
+      <description>ブレイブ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>brave_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ブラウザ三国志 ユーザーが欲しい最新情報 — ブラウザ三国志</title>
+      <link>https://soshageshin.pages.dev/games/browsersangoku/issues/2026-02-18/index.html</link>
+      <description>ブラウザ三国志 ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>browsersangoku_2026-02-18</guid>
+    </item>
+    <item>
+      <title>バグ三国志～群虫無双 ユーザーが欲しい最新情報 — バグ三国志～群虫無双</title>
+      <link>https://soshageshin.pages.dev/games/bugsangoku/issues/2026-02-18/index.html</link>
+      <description>バグ三国志～群虫無双 ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>bugsangoku_2026-02-18</guid>
+    </item>
+    <item>
+      <title>カオスゼロナイトメア ユーザーが欲しい最新情報 — カオスゼロナイトメア</title>
+      <link>https://soshageshin.pages.dev/games/chaoszeronightmare/issues/2026-02-18/index.html</link>
+      <description>カオスゼロナイトメア ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>chaoszeronightmare_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Cozy Caravan ユーザーが欲しい最新情報 — Cozy Caravan</title>
+      <link>https://soshageshin.pages.dev/games/cozy-caravan/issues/2026-02-18/index.html</link>
+      <description>Cozy Caravanの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>cozy-caravan_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Crisol_ Theater of Idols ユーザーが欲しい最新情報 — Crisol_ Theater of Idols</title>
+      <link>https://soshageshin.pages.dev/games/crisol-theater-of-idols/issues/2026-02-18/index.html</link>
+      <description>Crisol_ Theater of Idolsの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>crisol-theater-of-idols_2026-02-18</guid>
+    </item>
+    <item>
+      <title>CRYPTO CASTLE -降臨SOUL- ユーザーが欲しい最新情報 — CRYPTO CASTLE -降臨SOUL-</title>
+      <link>https://soshageshin.pages.dev/games/crypto-castle/issues/2026-02-18/index.html</link>
+      <description>CRYPTO CASTLE -降臨SOUL-の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>crypto-castle_2026-02-18</guid>
+    </item>
+    <item>
+      <title>仮面ライダー DEFENSE WARRIORS ユーザーが欲しい最新情報 — 仮面ライダー DEFENSE WARRIORS</title>
+      <link>https://soshageshin.pages.dev/games/defense-warriors/issues/2026-02-18/index.html</link>
+      <description>仮面ライダー DEFENSE WARRIORSの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>defense-warriors_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ドラベル~Dragon Travel~ ユーザーが欲しい最新情報 — ドラベル~Dragon Travel~</title>
+      <link>https://soshageshin.pages.dev/games/dragon-travel/issues/2026-02-18/index.html</link>
+      <description>ドラベル~Dragon Travel~の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>dragon-travel_2026-02-18</guid>
+    </item>
+    <item>
+      <title>英雄伝説ガガーブトリロジー ユーザーが欲しい最新情報 — 英雄伝説ガガーブトリロジー</title>
+      <link>https://soshageshin.pages.dev/games/eiyuudensetsu/issues/2026-02-18/index.html</link>
+      <description>英雄伝説ガガーブトリロジー ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>eiyuudensetsu_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Escape from Tarkov ユーザーが欲しい最新情報 — Escape from Tarkov</title>
+      <link>https://soshageshin.pages.dev/games/escape-from-tarkov/issues/2026-02-18/index.html</link>
+      <description>Escape from Tarkovの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>escape-from-tarkov_2026-02-18</guid>
+    </item>
+    <item>
+      <title>FAIRY TAIL 魔導士クロニクル ユーザーが欲しい最新情報 — FAIRY TAIL 魔導士クロニクル</title>
+      <link>https://soshageshin.pages.dev/games/fairy-tail/issues/2026-02-18/index.html</link>
+      <description>FAIRY TAIL 魔導士クロニクルの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>fairy-tail_2026-02-18</guid>
+    </item>
+    <item>
+      <title>逆水寒 ユーザーが欲しい最新情報 — 逆水寒</title>
+      <link>https://soshageshin.pages.dev/games/gyakusui/issues/2026-02-18/index.html</link>
+      <description>逆水寒 ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>gyakusui_2026-02-18</guid>
+    </item>
+    <item>
+      <title>遙かなる時空の中で 龍宮の神子 ユーザーが欲しい最新情報 — 遙かなる時空の中で 龍宮の神子</title>
+      <link>https://soshageshin.pages.dev/games/haruka/issues/2026-02-18/index.html</link>
+      <description>遙かなる時空の中で 龍宮の神子の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>haruka_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ハートピアスローライフ ユーザーが欲しい最新情報 — ハートピアスローライフ</title>
+      <link>https://soshageshin.pages.dev/games/heart/issues/2026-02-18/index.html</link>
+      <description>ハートピアスローライフ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>heart_2026-02-18</guid>
+    </item>
+    <item>
+      <title>HUNTER×HUNTER NEN×SURVIVORネンサバ：初動攻略ガイド — HUNTER×HUNTER NEN×SURVIVORネンサバ：初動攻略ガイド</title>
+      <link>https://soshageshin.pages.dev/games/hunter/issues/2026-02-18/index.html</link>
+      <description>HUNTER×HUNTER NEN×SURVIVORネンサバ：初動攻略ガイドの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>hunter_2026-02-18</guid>
+    </item>
+    <item>
+      <title>百花ランブル ユーザーが欲しい最新情報 — 百花ランブル</title>
+      <link>https://soshageshin.pages.dev/games/hyakka/issues/2026-02-18/index.html</link>
+      <description>百花ランブル ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>hyakka_2026-02-18</guid>
+    </item>
+    <item>
+      <title>地獄楽 パラダイスバトル ユーザーが欲しい最新情報 — 地獄楽 パラダイスバトル</title>
+      <link>https://soshageshin.pages.dev/games/jigokuraku/issues/2026-02-18/index.html</link>
+      <description>地獄楽 パラダイスバトルの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>jigokuraku_2026-02-18</guid>
+    </item>
+    <item>
+      <title>仮面ライダー ユーザーが欲しい最新情報 — 仮面ライダー</title>
+      <link>https://soshageshin.pages.dev/games/kamen-rider/issues/2026-02-18/index.html</link>
+      <description>仮面ライダー ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>kamen-rider_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Legend ユーザーが欲しい最新情報 — Legend</title>
+      <link>https://soshageshin.pages.dev/games/legend/issues/2026-02-18/index.html</link>
+      <description>Legend ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>legend_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Legend of YMIR ユーザーが欲しい最新情報 — Legend of YMIR</title>
+      <link>https://soshageshin.pages.dev/games/legend-of-ymir/issues/2026-02-18/index.html</link>
+      <description>Legend of YMIRの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>legend-of-ymir_2026-02-18</guid>
+    </item>
+    <item>
+      <title>しあわせ文鳥LIFE ユーザーが欲しい最新情報 — しあわせ文鳥LIFE</title>
+      <link>https://soshageshin.pages.dev/games/life/issues/2026-02-18/index.html</link>
+      <description>しあわせ文鳥LIFE ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>life_2026-02-18</guid>
+    </item>
+    <item>
+      <title>モエモエディフェンダーズ ユーザーが欲しい最新情報 — モエモエディフェンダーズ</title>
+      <link>https://soshageshin.pages.dev/games/moemoe/issues/2026-02-18/index.html</link>
+      <description>モエモエディフェンダーズ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>moemoe_2026-02-18</guid>
+    </item>
+    <item>
+      <title>忍者と極道 沸闘戦祭（ブッコロフェスタ） ユーザーが欲しい最新情報 — 忍者と極道 沸闘戦祭（ブッコロフェスタ）</title>
+      <link>https://soshageshin.pages.dev/games/ninja/issues/2026-02-18/index.html</link>
+      <description>忍者と極道 沸闘戦祭（ブッコロフェスタ）の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>ninja_2026-02-18</guid>
+    </item>
+    <item>
+      <title>信長の野望 真戦 ユーザーが欲しい最新情報 — 信長の野望 真戦</title>
+      <link>https://soshageshin.pages.dev/games/nobunaga/issues/2026-02-18/index.html</link>
+      <description>信長の野望 真戦の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>nobunaga_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ニャンジャ伝説 ユーザーが欲しい最新情報 — ニャンジャ伝説</title>
+      <link>https://soshageshin.pages.dev/games/nyan-densetsu/issues/2026-02-18/index.html</link>
+      <description>ニャンジャ伝説 ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>nyan-densetsu_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Obey Me! Till Death Do Us Part ユーザーが欲しい最新情報 — Obey Me! Till Death Do Us Part</title>
+      <link>https://soshageshin.pages.dev/games/obey-me-till-death-do-us-part/issues/2026-02-18/index.html</link>
+      <description>Obey Me! Till Death Do Us Partの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>obey-me-till-death-do-us-part_2026-02-18</guid>
+    </item>
+    <item>
+      <title>OUTRANKERS｜アウトランカーズ ユーザーが欲しい最新情報 — OUTRANKERS｜アウトランカーズ</title>
+      <link>https://soshageshin.pages.dev/games/outrankers/issues/2026-02-18/index.html</link>
+      <description>OUTRANKERS｜アウトランカーズ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>outrankers_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Sago Mini Jinja's Garden ユーザーが欲しい最新情報 — Sago Mini Jinja's Garden</title>
+      <link>https://soshageshin.pages.dev/games/sago-mini-jinja/issues/2026-02-18/index.html</link>
+      <description>Sago Mini Jinja's Gardenの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>sago-mini-jinja_2026-02-18</guid>
+    </item>
+    <item>
+      <title>戦隊大失格 パズルキーパー ユーザーが欲しい最新情報 — 戦隊大失格 パズルキーパー</title>
+      <link>https://soshageshin.pages.dev/games/sentaidaishikkaku/issues/2026-02-18/index.html</link>
+      <description>戦隊大失格 パズルキーパーの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>sentaidaishikkaku_2026-02-18</guid>
+    </item>
+    <item>
+      <title>終境シンフォニー～崩壊と再生の記憶～ ユーザーが欲しい最新情報 — 終境シンフォニー～崩壊と再生の記憶～</title>
+      <link>https://soshageshin.pages.dev/games/shukyousymphony/issues/2026-02-18/index.html</link>
+      <description>終境シンフォニー～崩壊と再生の記憶～ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>shukyousymphony_2026-02-18</guid>
+    </item>
+    <item>
+      <title>Sonic Rumble ユーザーが欲しい最新情報 — Sonic Rumble</title>
+      <link>https://soshageshin.pages.dev/games/sonic-rumble/issues/2026-02-18/index.html</link>
+      <description>Sonic Rumbleの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>sonic-rumble_2026-02-18</guid>
+    </item>
+    <item>
+      <title>スターセイヴァー ユーザーが欲しい最新情報 — スターセイヴァー</title>
+      <link>https://soshageshin.pages.dev/games/starsaver/issues/2026-02-18/index.html</link>
+      <description>スターセイヴァー ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>starsaver_2026-02-18</guid>
+    </item>
+    <item>
+      <title>刃牙 THE STRONGEST PROOF ユーザーが欲しい最新情報 — 刃牙 THE STRONGEST PROOF</title>
+      <link>https://soshageshin.pages.dev/games/the-strongest-proof/issues/2026-02-18/index.html</link>
+      <description>刃牙 THE STRONGEST PROOFの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>the-strongest-proof_2026-02-18</guid>
+    </item>
+    <item>
+      <title>この世界には死亡フラグが多すぎる！ ユーザーが欲しい最新情報 — この世界には死亡フラグが多すぎる！</title>
+      <link>https://soshageshin.pages.dev/games/unknown/issues/2026-02-18/index.html</link>
+      <description>この世界には死亡フラグが多すぎる！ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>unknown_2026-02-18</guid>
+    </item>
+    <item>
+      <title>ブイライフ ユーザーが欲しい最新情報 — ブイライフ</title>
+      <link>https://soshageshin.pages.dev/games/vlife/issues/2026-02-18/index.html</link>
+      <description>ブイライフ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>vlife_2026-02-18</guid>
+    </item>
+    <item>
+      <title>クローズ×WORST TOP OF CROWS ユーザーが欲しい最新情報 — クローズ×WORST TOP OF CROWS</title>
+      <link>https://soshageshin.pages.dev/games/worst-top-of-crows/issues/2026-02-18/index.html</link>
+      <description>クローズ×WORST TOP OF CROWSの最新情報まとめ</description>
+      <pubDate>2026-02-18</pubDate>
+      <guid>worst-top-of-crows_2026-02-18</guid>
+    </item>
+    <item>
+      <title>8 Ball Pool ユーザーが欲しい最新情報 — 8 Ball Pool</title>
+      <link>https://soshageshin.pages.dev/games/8-ball-pool/issues/2026-02-17/index.html</link>
+      <description>8 Ball Poolの最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>8-ball-pool_2026-02-17</guid>
+    </item>
+    <item>
+      <title>アークナイツ：エンドフィールド ユーザーが欲しい最新情報 — アークナイツ：エンドフィールド</title>
+      <link>https://soshageshin.pages.dev/games/arkknights/issues/2026-02-17/index.html</link>
+      <description>アークナイツ：エンドフィールド ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>arkknights_2026-02-17</guid>
+    </item>
+    <item>
+      <title>Armored Frontline_ Warzone ユーザーが欲しい最新情報 — Armored Frontline_ Warzone</title>
+      <link>https://soshageshin.pages.dev/games/armored-frontline-warzone/issues/2026-02-17/index.html</link>
+      <description>Armored Frontline_ Warzoneの最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>armored-frontline-warzone_2026-02-17</guid>
+    </item>
+    <item>
+      <title>Cairn ユーザーが欲しい最新情報 — Cairn</title>
+      <link>https://soshageshin.pages.dev/games/cairn/issues/2026-02-17/index.html</link>
+      <description>Cairn ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>cairn_2026-02-17</guid>
+    </item>
+    <item>
+      <title>ダークディセンバー ユーザーが欲しい最新情報 — ダークディセンバー</title>
+      <link>https://soshageshin.pages.dev/games/dark/issues/2026-02-17/index.html</link>
+      <description>ダークディセンバー ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>dark_2026-02-17</guid>
+    </item>
+    <item>
+      <title>君ノ隣ニ座ル星。-DaysThatSparkle- ユーザーが欲しい最新情報 — 君ノ隣ニ座ル星。-DaysThatSparkle-</title>
+      <link>https://soshageshin.pages.dev/games/daysthatsparkle/issues/2026-02-17/index.html</link>
+      <description>君ノ隣ニ座ル星。-DaysThatSparkle- ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>daysthatsparkle_2026-02-17</guid>
+    </item>
+    <item>
+      <title>EDGE POKER ユーザーが欲しい最新情報 — EDGE POKER</title>
+      <link>https://soshageshin.pages.dev/games/edge-poker/issues/2026-02-17/index.html</link>
+      <description>EDGE POKERの最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>edge-poker_2026-02-17</guid>
+    </item>
+    <item>
+      <title>フルールデイズ ユーザーが欲しい最新情報 — フルールデイズ</title>
+      <link>https://soshageshin.pages.dev/games/fleur/issues/2026-02-17/index.html</link>
+      <description>フルールデイズ ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>fleur_2026-02-17</guid>
+    </item>
+    <item>
+      <title>銀魂 すまほ ばとるくろにくる ユーザーが欲しい最新情報 — 銀魂 すまほ ばとるくろにくる</title>
+      <link>https://soshageshin.pages.dev/games/gintama/issues/2026-02-17/index.html</link>
+      <description>銀魂 すまほ ばとるくろにくるの最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>gintama_2026-02-17</guid>
+    </item>
+    <item>
+      <title>百勇者決選 ~Guild ConQuest~ ユーザーが欲しい最新情報 — 百勇者決選 ~Guild ConQuest~</title>
+      <link>https://soshageshin.pages.dev/games/guild-conquest/issues/2026-02-17/index.html</link>
+      <description>百勇者決選 ~Guild ConQuest~の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>guild-conquest_2026-02-17</guid>
+    </item>
+    <item>
+      <title>マージキャット：キャットピアパズル ユーザーが欲しい最新情報 — マージキャット：キャットピアパズル</title>
+      <link>https://soshageshin.pages.dev/games/mergecat/issues/2026-02-17/index.html</link>
+      <description>マージキャット：キャットピアパズル ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>mergecat_2026-02-17</guid>
+    </item>
+    <item>
+      <title>忍たま乱太郎ふっとびパズル！の段 あげいん ユーザーが欲しい最新情報 — 忍たま乱太郎ふっとびパズル！の段 あげいん</title>
+      <link>https://soshageshin.pages.dev/games/nintama/issues/2026-02-17/index.html</link>
+      <description>忍たま乱太郎ふっとびパズル！の段 あげいんの最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>nintama_2026-02-17</guid>
+    </item>
+    <item>
+      <title>三国百花録：美しき武将たちの列伝 ユーザーが欲しい最新情報 — 三国百花録：美しき武将たちの列伝</title>
+      <link>https://soshageshin.pages.dev/games/sangokuhyakka/issues/2026-02-17/index.html</link>
+      <description>三国百花録：美しき武将たちの列伝 ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>sangokuhyakka_2026-02-17</guid>
+    </item>
+    <item>
+      <title>三国レガリア ユーザーが欲しい最新情報 — 三国レガリア</title>
+      <link>https://soshageshin.pages.dev/games/sangokuregalia/issues/2026-02-17/index.html</link>
+      <description>三国レガリア ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>sangokuregalia_2026-02-17</guid>
+    </item>
+    <item>
+      <title>サンシャイン牧場2 ユーザーが欲しい最新情報 — サンシャイン牧場2</title>
+      <link>https://soshageshin.pages.dev/games/sunshinefarm2/issues/2026-02-17/index.html</link>
+      <description>サンシャイン牧場2 ユーザーが欲しい最新情報の最新情報まとめ</description>
+      <pubDate>2026-02-17</pubDate>
+      <guid>sunshinefarm2_2026-02-17</guid>
+    </item>
+    <item>
+      <title>Age of Origins バレンタイン＆春節攻略 — Age of Origins</title>
+      <link>https://soshageshin.pages.dev/games/age-of-origins/issues/2026-02-16/index.html</link>
+      <description>Age of Originsバレンタイン＆春節イベント攻略＋最新情報</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>age-of-origins_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ブロスタ トロフィー大改修＆最新動向 — ブロスタ</title>
+      <link>https://soshageshin.pages.dev/games/brawl-stars/issues/2026-02-16/index.html</link>
+      <description>ブロスタトロフィー大改修＋2月最新動向＋おすすめブロウラー</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>brawl-stars_2026-02-16</guid>
+    </item>
+    <item>
+      <title>キャンディクラッシュ バレンタイン大会 — キャンディクラッシュ</title>
+      <link>https://soshageshin.pages.dev/games/candy-crush/issues/2026-02-16/index.html</link>
+      <description>キャンディクラッシュバレンタイン大会＋最新運営情報＋攻略ポイント</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>candy-crush_2026-02-16</guid>
+    </item>
+    <item>
+      <title>Dark War Survival 最新攻略＆コード — Dark War Survival</title>
+      <link>https://soshageshin.pages.dev/games/dark-war-survival/issues/2026-02-16/index.html</link>
+      <description>Dark War Survival最新アプデ＋攻略コードまとめ＋戦術ガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>dark-war-survival_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ドット勇者 2.5周年前夜祭＆攻略 — ドット勇者</title>
+      <link>https://soshageshin.pages.dev/games/dot-yusha/issues/2026-02-16/index.html</link>
+      <description>ドット勇者2.5周年前夜祭＋最新攻略ガイド＋おすすめキャラ</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>dot-yusha_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ドラゴンエッグ 10周年記念攻略 — ドラゴンエッグ</title>
+      <link>https://soshageshin.pages.dev/games/dragon-egg/issues/2026-02-16/index.html</link>
+      <description>ドラゴンエッグ10周年記念攻略＋最新イベント情報＋おすすめ編成</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>dragon-egg_2026-02-16</guid>
+    </item>
+    <item>
+      <title>エバーテイル 2月最新攻略ガイド — エバーテイル</title>
+      <link>https://soshageshin.pages.dev/games/evertale/issues/2026-02-16/index.html</link>
+      <description>エバーテイル2月最新攻略＋新キャラ評価＋おすすめ編成ガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>evertale_2026-02-16</guid>
+    </item>
+    <item>
+      <title>エボニー 2月最新イベント＆アプデ — エボニー</title>
+      <link>https://soshageshin.pages.dev/games/evony/issues/2026-02-16/index.html</link>
+      <description>エボニー2月最新イベント＋アップデート情報まとめ＋攻略ポイント</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>evony_2026-02-16</guid>
+    </item>
+    <item>
+      <title>FEH 9周年キャンペーン＆攻略 — ファイアーエムブレム ヒーローズ</title>
+      <link>https://soshageshin.pages.dev/games/feh/issues/2026-02-16/index.html</link>
+      <description>FEH 9周年記念キャンペーン＋最新攻略ガイド＋新英雄評価</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>feh_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ヒーローウォーズ 新シーズン攻略 — ヒーローウォーズ</title>
+      <link>https://soshageshin.pages.dev/games/hero-wars/issues/2026-02-16/index.html</link>
+      <description>ヒーローウォーズ新シーズン開幕＋攻略の要諦＋おすすめヒーロー</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>hero-wars_2026-02-16</guid>
+    </item>
+    <item>
+      <title>異世界のんびりライフ 2月攻略 — 異世界のんびりライフ</title>
+      <link>https://soshageshin.pages.dev/games/isekai-nonbiri/issues/2026-02-16/index.html</link>
+      <description>異世界のんびりライフ2月攻略＋最新情報まとめ＋効率育成ガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>isekai-nonbiri_2026-02-16</guid>
+    </item>
+    <item>
+      <title>キノコ伝説 イベント攻略＆コード — キノコ伝説</title>
+      <link>https://soshageshin.pages.dev/games/kinoko-densetsu/issues/2026-02-16/index.html</link>
+      <description>キノコ伝説最新イベント攻略＋交換コードまとめ＋育成ガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>kinoko-densetsu_2026-02-16</guid>
+    </item>
+    <item>
+      <title>荒野行動 2月大型アプデ＆攻略指針 — 荒野行動</title>
+      <link>https://soshageshin.pages.dev/games/knives-out/issues/2026-02-16/index.html</link>
+      <description>荒野行動2月大型アップデート＋最新攻略指針＋新モード情報</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>knives-out_2026-02-16</guid>
+    </item>
+    <item>
+      <title>KOF AFK メタスラコラボ＆最新アプデ — KOF AFK</title>
+      <link>https://soshageshin.pages.dev/games/kof-afk/issues/2026-02-16/index.html</link>
+      <description>KOF AFKメタルスラッグ3コラボ＋最新アップデート情報＋攻略ポイント</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>kof-afk_2026-02-16</guid>
+    </item>
+    <item>
+      <title>LINE POP2 2月イベント攻略 — LINE POP2</title>
+      <link>https://soshageshin.pages.dev/games/line-pop2/issues/2026-02-16/index.html</link>
+      <description>LINE POP2 2月イベント攻略カレンダー＋効率的な進め方ガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>line-pop2_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ローモバ 10周年＆春節攻略ToDo — ロードモバイル</title>
+      <link>https://soshageshin.pages.dev/games/lords-mobile/issues/2026-02-16/index.html</link>
+      <description>ロードモバイル10周年＋春節イベント攻略ToDoガイド＋おすすめ戦略</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>lords-mobile_2026-02-16</guid>
+    </item>
+    <item>
+      <title>モンハンNow 2月イベント＆新要素攻略 — モンスターハンターNow</title>
+      <link>https://soshageshin.pages.dev/games/mh-now/issues/2026-02-16/index.html</link>
+      <description>モンハンNow 2月イベント＋新要素攻略まとめ＋おすすめ武器</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>mh-now_2026-02-16</guid>
+    </item>
+    <item>
+      <title>P5X 最新アプデ＆イベント攻略 — ペルソナ5：The Phantom X</title>
+      <link>https://soshageshin.pages.dev/games/p5x/issues/2026-02-16/index.html</link>
+      <description>ペルソナ5 The Phantom X最新アプデ＋イベント攻略＋おすすめ編成</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>p5x_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ピクミンブルーム 2月イベント攻略 — ピクミン ブルーム</title>
+      <link>https://soshageshin.pages.dev/games/pikmin-bloom/issues/2026-02-16/index.html</link>
+      <description>ピクミンブルーム2月最新イベント攻略まとめ＋おすすめプレイガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>pikmin-bloom_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ぷにぷに ギアスコラボ終盤攻略 — 妖怪ウォッチ ぷにぷに</title>
+      <link>https://soshageshin.pages.dev/games/punipuni/issues/2026-02-16/index.html</link>
+      <description>ぷにぷにギアスコラボ終盤攻略＋次イベント指針＋おすすめ妖怪</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>punipuni_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ローグウィズデッド 限定エイル＆最新更新 — ローグウィズデッド</title>
+      <link>https://soshageshin.pages.dev/games/rogue-with-dead/issues/2026-02-16/index.html</link>
+      <description>ローグウィズデッド期間限定エイル＋最新更新まとめ＋攻略ポイント</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>rogue-with-dead_2026-02-16</guid>
+    </item>
+    <item>
+      <title>Royal Kingdom 攻略＆最新アプデ — Royal Kingdom</title>
+      <link>https://soshageshin.pages.dev/games/royal-kingdom/issues/2026-02-16/index.html</link>
+      <description>Royal Kingdom攻略ガイド＋最新アップデート全貌＋おすすめ戦略</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>royal-kingdom_2026-02-16</guid>
+    </item>
+    <item>
+      <title>三國志 覇道 2月アプデ＆攻略ToDo — 三國志 覇道</title>
+      <link>https://soshageshin.pages.dev/games/sangokushi-hadou/issues/2026-02-16/index.html</link>
+      <description>三國志覇道2月度アップデート＋攻略ToDoまとめ＋おすすめ武将</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>sangokushi-hadou_2026-02-16</guid>
+    </item>
+    <item>
+      <title>三國志 真戦 定軍山＆40周年攻略 — 三國志 真戦</title>
+      <link>https://soshageshin.pages.dev/games/sangokushi-shinsen/issues/2026-02-16/index.html</link>
+      <description>三國志真戦定軍山の戦い＋40周年記念祭攻略ガイド＋おすすめ編成</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>sangokushi-shinsen_2026-02-16</guid>
+    </item>
+    <item>
+      <title>Seaside Escape 攻略＆イベント速報 — Seaside Escape</title>
+      <link>https://soshageshin.pages.dev/games/seaside-escape/issues/2026-02-16/index.html</link>
+      <description>Seaside Escape最新攻略＋イベント速報＋効率的な進め方</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>seaside-escape_2026-02-16</guid>
+    </item>
+    <item>
+      <title>セガNET麻雀 MJ 最新イベント＆攻略 — セガNET麻雀 MJ</title>
+      <link>https://soshageshin.pages.dev/games/sega-mj/issues/2026-02-16/index.html</link>
+      <description>セガNET麻雀MJ最新イベント＋攻略情報まとめ＋段位戦ガイド</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>sega-mj_2026-02-16</guid>
+    </item>
+    <item>
+      <title>スパロボDD 6.5周年直前イベント攻略 — スーパーロボット大戦DD</title>
+      <link>https://soshageshin.pages.dev/games/srw-dd/issues/2026-02-16/index.html</link>
+      <description>スパロボDD 6.5周年直前イベント＋ガシャ攻略＋おすすめユニット</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>srw-dd_2026-02-16</guid>
+    </item>
+    <item>
+      <title>東京ディバンカー 2月最新動向 — 東京ディバンカー</title>
+      <link>https://soshageshin.pages.dev/games/tokyo-debunker/issues/2026-02-16/index.html</link>
+      <description>東京ディバンカー2月最新動向＋新シナリオ＋イベント情報</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>tokyo-debunker_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ビビッドアーミー 2月最新攻略 — ビビッドアーミー</title>
+      <link>https://soshageshin.pages.dev/games/vivid-army/issues/2026-02-16/index.html</link>
+      <description>ビビッドアーミー2月最新攻略まとめ＋イベント情報＋おすすめ編成</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>vivid-army_2026-02-16</guid>
+    </item>
+    <item>
+      <title>ゼンレスゾーンゼロ Ver.2.6攻略 — ゼンレスゾーンゼロ</title>
+      <link>https://soshageshin.pages.dev/games/zzz/issues/2026-02-16/index.html</link>
+      <description>ゼンレスゾーンゼロVer.2.6攻略＋新キャラ＋新コンテンツ情報</description>
+      <pubDate>2026-02-16</pubDate>
+      <guid>zzz_2026-02-16</guid>
+    </item>
+    <item>
+      <title>アズールレーン 2月戦略概報＆イベント計画 — アズールレーン</title>
+      <link>https://soshageshin.pages.dev/games/azurlane/issues/2026-02-15/index.html</link>
+      <description>アズールレーン2月戦略概報＋新イベント計画＋新艦船評価</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>azurlane_2026-02-15</guid>
+    </item>
+    <item>
+      <title>黒い砂漠モバイル 日刊ニュース — 黒い砂漠モバイル</title>
+      <link>https://soshageshin.pages.dev/games/bdo-mobile/issues/2026-02-15/index.html</link>
+      <description>黒い砂漠モバイル最新アップデート情報＋新コンテンツ解禁レポート</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>bdo-mobile_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ブルアカ デカグラマトン決戦＆戦術指針録 — ブルーアーカイブ</title>
+      <link>https://soshageshin.pages.dev/games/blue-archive/issues/2026-02-15/index.html</link>
+      <description>ブルアカ最新攻略デカグラマトン決戦＋戦術指針＋おすすめ編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>blue-archive_2026-02-15</guid>
+    </item>
+    <item>
+      <title>バウンティラッシュ 7周年＆黒ひげ参戦 — ONE PIECE バウンティラッシュ</title>
+      <link>https://soshageshin.pages.dev/games/bounty-rush/issues/2026-02-15/index.html</link>
+      <description>バウンティラッシュ7周年記念＋黒ひげ参戦情報＋報酬攻略ガイド</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>bounty-rush_2026-02-15</guid>
+    </item>
+    <item>
+      <title>旦那様の一発逆転人生 最新運営情報 — 旦那様の一発逆転人生</title>
+      <link>https://soshageshin.pages.dev/games/danna-sama/issues/2026-02-15/index.html</link>
+      <description>旦那様の一発逆転人生リブランディング情報＋最新運営アップデート</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>danna-sama_2026-02-15</guid>
+    </item>
+    <item>
+      <title>DBレジェンズ LEGEND実装＆超ベジット参戦 — ドラゴンボール レジェンズ</title>
+      <link>https://soshageshin.pages.dev/games/db-legends/issues/2026-02-15/index.html</link>
+      <description>新レアリティLEGEND実装＋超ベジット参戦＋最新メタ環境分析</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>db-legends_2026-02-15</guid>
+    </item>
+    <item>
+      <title>DQウォーク まほうのカギ＆竜の秘宝攻略 — ドラクエウォーク</title>
+      <link>https://soshageshin.pages.dev/games/dq-walk/issues/2026-02-15/index.html</link>
+      <description>DQウォーク新機能まほうのカギ＋竜の秘宝イベント攻略＋おすすめ装備</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>dq-walk_2026-02-15</guid>
+    </item>
+    <item>
+      <title>耐久戦争 2026年最新攻略ガイド — 耐久戦争</title>
+      <link>https://soshageshin.pages.dev/games/durability-warfare/issues/2026-02-15/index.html</link>
+      <description>耐久戦争2026年最新攻略＋イベント情報＋おすすめ編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>durability-warfare_2026-02-15</guid>
+    </item>
+    <item>
+      <title>eFootball 必読アップデート速報 — eFootball</title>
+      <link>https://soshageshin.pages.dev/games/efootball/issues/2026-02-15/index.html</link>
+      <description>eFootball最新シーズンアップデート＋選手データ更新＋新機能レビュー</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>efootball_2026-02-15</guid>
+    </item>
+    <item>
+      <title>駅メモ！2026イベント＆キャンペーン攻略 — 駅メモ！</title>
+      <link>https://soshageshin.pages.dev/games/ekimemo/issues/2026-02-15/index.html</link>
+      <description>駅メモ！最新イベント・キャンペーン攻略まとめ＋効率的なプレイガイド</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>ekimemo_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ファンパレ 2周年記念＆2月最新攻略 — ファンパレ</title>
+      <link>https://soshageshin.pages.dev/games/fanpare/issues/2026-02-15/index.html</link>
+      <description>ファンパレ2周年記念イベント＋2月の最新攻略情報まとめ</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>fanpare_2026-02-15</guid>
+    </item>
+    <item>
+      <title>FGO バレンタイン2026＆新章ロードマップ — Fate/Grand Order</title>
+      <link>https://soshageshin.pages.dev/games/fgo/issues/2026-02-15/index.html</link>
+      <description>FGOバレンタイン2026イベント攻略＋新章開幕ロードマップ＋新サーヴァント評価</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>fgo_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Fishdom 2月最新アップデート情報 — Fishdom</title>
+      <link>https://soshageshin.pages.dev/games/fishdom/issues/2026-02-15/index.html</link>
+      <description>Fishdom 2月最新アップデート＋新イベント攻略＋効率的な進め方</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>fishdom_2026-02-15</guid>
+    </item>
+    <item>
+      <title>学マス 2月最新動向まとめ — 学園アイドルマスター</title>
+      <link>https://soshageshin.pages.dev/games/gakumas/issues/2026-02-15/index.html</link>
+      <description>学園アイドルマスター2月最新動向＋新アイドル＋イベント情報</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>gakumas_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Gジェネエターナル 2月最新攻略ガイド — SDガンダム Gジェネレーション エターナル</title>
+      <link>https://soshageshin.pages.dev/games/ggene-eternal/issues/2026-02-15/index.html</link>
+      <description>Gジェネエターナル2月攻略＋新MSユニット評価＋おすすめ編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>ggene-eternal_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ゴシップ・ハーバー イベント攻略＆配布情報 — ゴシップ・ハーバー</title>
+      <link>https://soshageshin.pages.dev/games/gossip-harbor/issues/2026-02-15/index.html</link>
+      <description>ゴシップ・ハーバー最新イベント攻略＋配布情報＋効率的な進め方</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>gossip-harbor_2026-02-15</guid>
+    </item>
+    <item>
+      <title>放置少女 バレンタイン2026攻略詳報 — 放置少女</title>
+      <link>https://soshageshin.pages.dev/games/houchi-shoujo/issues/2026-02-15/index.html</link>
+      <description>放置少女バレンタイン2026イベント攻略＋新キャラ評価＋最新メタ分析</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>houchi-shoujo_2026-02-15</guid>
+    </item>
+    <item>
+      <title>怪獣8号 THE GAME ハーフアニバ攻略 — 怪獣8号 THE GAME</title>
+      <link>https://soshageshin.pages.dev/games/kaiju-no8/issues/2026-02-15/index.html</link>
+      <description>怪獣8号 THE GAMEハーフアニバーサリー攻略＋新キャラ評価＋イベント情報</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>kaiju-no8_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Kingshot 2月イベント＆コード攻略 — Kingshot</title>
+      <link>https://soshageshin.pages.dev/games/kingshot/issues/2026-02-15/index.html</link>
+      <description>Kingshot 2月最新イベント情報＋最新コード一覧＋攻略ガイド</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>kingshot_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ラストウォー：サバイバル 2月攻略ガイド — ラストウォー：サバイバル</title>
+      <link>https://soshageshin.pages.dev/games/last-war/issues/2026-02-15/index.html</link>
+      <description>ラストウォー：サバイバル最新攻略ガイド＋2月アプデ情報＋おすすめ編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>last-war_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Last Z 生存者のための最新攻略ガイド — Last Z</title>
+      <link>https://soshageshin.pages.dev/games/last-z/issues/2026-02-15/index.html</link>
+      <description>Last Z最新攻略ガイド＋サバイバル戦術＋おすすめ装備構成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>last-z_2026-02-15</guid>
+    </item>
+    <item>
+      <title>マフィア・シティ 2月最新攻略ガイド — マフィア・シティ</title>
+      <link>https://soshageshin.pages.dev/games/mafia-city/issues/2026-02-15/index.html</link>
+      <description>マフィア・シティ2月攻略ガイド＋最新イベント＋効率的な勢力拡大</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>mafia-city_2026-02-15</guid>
+    </item>
+    <item>
+      <title>まおりゅう 2月攻略＆劇場版連動 — 転スラ まおりゅう</title>
+      <link>https://soshageshin.pages.dev/games/maoryu/issues/2026-02-15/index.html</link>
+      <description>転生したらスライムだった件まおりゅう2月攻略＋劇場版連動情報＋新キャラ評価</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>maoryu_2026-02-15</guid>
+    </item>
+    <item>
+      <title>NIKKE 2026年戦略ロードマップ — 勝利の女神：NIKKE</title>
+      <link>https://soshageshin.pages.dev/games/nikke/issues/2026-02-15/index.html</link>
+      <description>NIKKE 2026年戦略ロードマップ＋新キャラ情報＋攻略ポイント</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>nikke_2026-02-15</guid>
+    </item>
+    <item>
+      <title>信長の野望 覇道 アプデ＆イベント攻略 — 信長の野望 覇道</title>
+      <link>https://soshageshin.pages.dev/games/nobunaga-hadou/issues/2026-02-15/index.html</link>
+      <description>信長の野望覇道最新アップデート＋イベント攻略指針＋おすすめ武将</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>nobunaga-hadou_2026-02-15</guid>
+    </item>
+    <item>
+      <title>信長の野望 出陣 2月攻略ガイド — 信長の野望 出陣</title>
+      <link>https://soshageshin.pages.dev/games/nobunaga-shutsujin/issues/2026-02-15/index.html</link>
+      <description>信長の野望出陣2月攻略ガイド＋新シナリオ＋おすすめ武将編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>nobunaga-shutsujin_2026-02-15</guid>
+    </item>
+    <item>
+      <title>トレクル 2月イベント攻略まとめ — ONE PIECE トレジャークルーズ</title>
+      <link>https://soshageshin.pages.dev/games/optc/issues/2026-02-15/index.html</link>
+      <description>トレクル2月イベント情報まとめ＋新キャラ評価＋攻略ポイント</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>optc_2026-02-15</guid>
+    </item>
+    <item>
+      <title>プロスピA 7000万DL福袋＆必勝攻略 — プロ野球スピリッツA</title>
+      <link>https://soshageshin.pages.dev/games/prospi-a/issues/2026-02-15/index.html</link>
+      <description>プロスピA 7000万DL記念福袋＋攻略必勝ガイド＋おすすめ選手評価</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>prospi-a_2026-02-15</guid>
+    </item>
+    <item>
+      <title>パズル＆サバイバル 2月最新攻略 — パズル＆サバイバル</title>
+      <link>https://soshageshin.pages.dev/games/puzzle-survival/issues/2026-02-15/index.html</link>
+      <description>パズル＆サバイバル2月攻略ガイド＋最新イベント＋おすすめ育成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>puzzle-survival_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Roblox 安全対策＆開発アップデート要諦 — Roblox</title>
+      <link>https://soshageshin.pages.dev/games/roblox/issues/2026-02-15/index.html</link>
+      <description>Roblox最新安全対策＋開発者向けアップデート＋トレンドゲーム情報</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>roblox_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ロイヤルマッチ 最新攻略完全ガイド — ロイヤルマッチ</title>
+      <link>https://soshageshin.pages.dev/games/royal-match/issues/2026-02-15/index.html</link>
+      <description>ロイヤルマッチ最新攻略＋アップデート情報＋効率的なクリア方法</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>royal-match_2026-02-15</guid>
+    </item>
+    <item>
+      <title>聖霊伝説 2月最新攻略ガイド — 聖霊伝説</title>
+      <link>https://soshageshin.pages.dev/games/seirei-densetsu/issues/2026-02-15/index.html</link>
+      <description>聖霊伝説最新攻略ガイド＋育成ポイント＋おすすめ編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>seirei-densetsu_2026-02-15</guid>
+    </item>
+    <item>
+      <title>崩壊：スターレイル Ver.4.0 完全攻略 — 崩壊：スターレイル</title>
+      <link>https://soshageshin.pages.dev/games/starrail/issues/2026-02-15/index.html</link>
+      <description>崩壊スターレイルVer.4.0大型アップデート完全攻略＋新キャラ評価＋システム変更点</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>starrail_2026-02-15</guid>
+    </item>
+    <item>
+      <title>スターシード：アスニアトリガー 2月最新情報 — スターシード：アスニアトリガー</title>
+      <link>https://soshageshin.pages.dev/games/starseed-asnia/issues/2026-02-15/index.html</link>
+      <description>スターシード：アスニアトリガー2月最新情報＋新キャラ＋イベント攻略</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>starseed-asnia_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Top Heroes 2月戦術指令書 — Top Heroes</title>
+      <link>https://soshageshin.pages.dev/games/top-heroes/issues/2026-02-15/index.html</link>
+      <description>Top Heroes最新戦術ガイド＋2月イベント攻略＋おすすめ編成</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>top-heroes_2026-02-15</guid>
+    </item>
+    <item>
+      <title>Township 2月イベント攻略カレンダー — Township</title>
+      <link>https://soshageshin.pages.dev/games/township/issues/2026-02-15/index.html</link>
+      <description>Township 2月イベントカレンダー＋攻略ポイント＋効率的な進め方</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>township_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ウマ娘 5周年記念キャンペーン情報集 — ウマ娘 プリティーダービー</title>
+      <link>https://soshageshin.pages.dev/games/umamusume/issues/2026-02-15/index.html</link>
+      <description>ウマ娘5周年記念キャンペーン全情報＋最新アプデ＋無料ガチャ情報</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>umamusume_2026-02-15</guid>
+    </item>
+    <item>
+      <title>VALORANT Mobile 中国成功・日本沈黙 — VALORANT Mobile</title>
+      <link>https://soshageshin.pages.dev/games/valorant/issues/2026-02-15/index.html</link>
+      <description>VALORANT Mobile中国展開の成功事例＋日本市場の課題分析＋最新Act情報</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>valorant_2026-02-15</guid>
+    </item>
+    <item>
+      <title>原神 Ver.6.4 帰郷ブリーフィング — 原神</title>
+      <link>https://soshageshin.pages.dev/games/version64/issues/2026-02-15/index.html</link>
+      <description>原神Ver.6.4帰郷アップデート詳細＋新キャラ＋イベント情報</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>version64_2026-02-15</guid>
+    </item>
+    <item>
+      <title>杖と剣の伝説 2月攻略アップデート — 杖と剣の伝説</title>
+      <link>https://soshageshin.pages.dev/games/wand-and-sword/issues/2026-02-15/index.html</link>
+      <description>杖と剣の伝説2月攻略＋新コンテンツ＋おすすめ育成ガイド</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>wand-and-sword_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ホワサバ 3周年＆2月イベント攻略 — ホワイトアウト・サバイバル</title>
+      <link>https://soshageshin.pages.dev/games/whiteout-survival/issues/2026-02-15/index.html</link>
+      <description>ホワイトアウト・サバイバル3周年記念＋2月最新イベント攻略ガイド</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>whiteout-survival_2026-02-15</guid>
+    </item>
+    <item>
+      <title>ウィザードリィ ダフネ 2月更新ロードマップ — ウィザードリィ ダフネ</title>
+      <link>https://soshageshin.pages.dev/games/wizardry-daphne/issues/2026-02-15/index.html</link>
+      <description>ウィザードリィダフネ2月ロードマップ＋新ダンジョン＋攻略ポイント</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>wizardry-daphne_2026-02-15</guid>
+    </item>
+    <item>
+      <title>鳴潮 Ver.3.1 ローンチガイド — 鳴潮</title>
+      <link>https://soshageshin.pages.dev/games/wuthering-waves/issues/2026-02-15/index.html</link>
+      <description>鳴潮Ver.3.1大型アプデ＋新キャラ＋新エリア攻略ガイド</description>
+      <pubDate>2026-02-15</pubDate>
+      <guid>wuthering-waves_2026-02-15</guid>
+    </item>
+    <item>
+      <title>アスキン9周年デイリー — アスキン</title>
+      <link>https://soshageshin.pages.dev/games/ask-kingdom/issues/2026-02-14/index.html</link>
+      <description>9周年記念＋新王国システム＋大型コンテンツ追加</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>ask-kingdom_2026-02-14</guid>
+    </item>
+    <item>
+      <title>バトルグラウンドガゼット — バトルグラウンド</title>
+      <link>https://soshageshin.pages.dev/games/battlegrounds/issues/2026-02-14/index.html</link>
+      <description>新マップ追加＋新武器＋シーズンパス報酬一覧</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>battlegrounds_2026-02-14</guid>
+    </item>
+    <item>
+      <title>CODM シーズン2レポート — CoDモバイル</title>
+      <link>https://soshageshin.pages.dev/games/codm/issues/2026-02-14/index.html</link>
+      <description>シーズン2新マップ＋新武器＋ランク報酬まとめ</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>codm_2026-02-14</guid>
+    </item>
+    <item>
+      <title>デレステ プロデューサーブリーフィング — デレステ</title>
+      <link>https://soshageshin.pages.dev/games/dereste/issues/2026-02-14/index.html</link>
+      <description>新楽曲＋フェス限定＋イベント攻略まとめ</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>dereste_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ドッカン11周年レポート — ドッカンバトル</title>
+      <link>https://soshageshin.pages.dev/games/dokkan/issues/2026-02-14/index.html</link>
+      <description>11周年記念＋新LR追加＋超激戦イベント開催</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>dokkan_2026-02-14</guid>
+    </item>
+    <item>
+      <title>DQタクト デイリー号外 — DQタクト</title>
+      <link>https://soshageshin.pages.dev/games/dqtact/issues/2026-02-14/index.html</link>
+      <description>新高難度クエスト＋才能開花追加＋闘技場シーズン更新</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>dqtact_2026-02-14</guid>
+    </item>
+    <item>
+      <title>あんスタ10周年特報 — あんスタ</title>
+      <link>https://soshageshin.pages.dev/games/enstars/issues/2026-02-14/index.html</link>
+      <description>10周年記念イベント＋新ユニット結成＋コラボ発表</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>enstars_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ガルパデイリー 全アプデまとめ — ガルパ</title>
+      <link>https://soshageshin.pages.dev/games/garupa/issues/2026-02-14/index.html</link>
+      <description>新楽曲追加＋限定ガチャ＋イベントストーリー公開</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>garupa_2026-02-14</guid>
+    </item>
+    <item>
+      <title>グラブルタイムズ 2月号 — グラブル</title>
+      <link>https://soshageshin.pages.dev/games/granblue/issues/2026-02-14/index.html</link>
+      <description>古戦場結果＋新ジョブ追加＋バランス調整20体</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>granblue_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ヘブバン4周年フェスティバル — ヘブバン</title>
+      <link>https://soshageshin.pages.dev/games/heban/issues/2026-02-14/index.html</link>
+      <description>4周年記念＋新章追加＋PvE新コンテンツ実装</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>heban_2026-02-14</guid>
+    </item>
+    <item>
+      <title>第五人格タイムズ 週報 — 第五人格</title>
+      <link>https://soshageshin.pages.dev/games/identity-v/issues/2026-02-14/index.html</link>
+      <description>新サバイバー＋ランクマッチ調整＋シーズンイベント</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>identity-v_2026-02-14</guid>
+    </item>
+    <item>
+      <title>アイナナ DECENNIUM レポート — アイナナ</title>
+      <link>https://soshageshin.pages.dev/games/idolish7/issues/2026-02-14/index.html</link>
+      <description>10周年記念＋新楽曲＋限定イベント開催</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>idolish7_2026-02-14</guid>
+    </item>
+    <item>
+      <title>リネージュオブザーバー 2月14日版 — リネージュ</title>
+      <link>https://soshageshin.pages.dev/games/lineage/issues/2026-02-14/index.html</link>
+      <description>大型攻城戦結果＋新装備＋バレンタインイベント</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>lineage_2026-02-14</guid>
+    </item>
+    <item>
+      <title>雀魂タイムズ 号外 — 雀魂</title>
+      <link>https://soshageshin.pages.dev/games/mahjongsoul/issues/2026-02-14/index.html</link>
+      <description>大型大会結果＋新キャラ＋段位戦調整</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>mahjongsoul_2026-02-14</guid>
+    </item>
+    <item>
+      <title>マスターデュエル 周年レポート — マスターデュエル</title>
+      <link>https://soshageshin.pages.dev/games/masterduel/issues/2026-02-14/index.html</link>
+      <description>周年記念＋新パック＋リミットレギュレーション改定</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>masterduel_2026-02-14</guid>
+    </item>
+    <item>
+      <title>メメントモリ 戦略レビュー — メメントモリ</title>
+      <link>https://soshageshin.pages.dev/games/memento-mori/issues/2026-02-14/index.html</link>
+      <description>新章追加＋PvPメタ分析＋キャラ育成効率ランキング</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>memento-mori_2026-02-14</guid>
+    </item>
+    <item>
+      <title>モンスト2月戦報 — モンスト</title>
+      <link>https://soshageshin.pages.dev/games/monster-strike/issues/2026-02-14/index.html</link>
+      <description>新超絶クエスト追加＋獣神化改キャラ情報＋コラボイベント速報</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>monster-strike_2026-02-14</guid>
+    </item>
+    <item>
+      <title>忍者メタ 6000万人突破号 — NARUTO×BORUTO 忍者</title>
+      <link>https://soshageshin.pages.dev/games/naruto-ninja/issues/2026-02-14/index.html</link>
+      <description>6000万DL突破記念＋最強忍者ランキング＋新章追加</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>naruto-ninja_2026-02-14</guid>
+    </item>
+    <item>
+      <title>にゃんこスポーツ最新スクープ — にゃんこ大戦争</title>
+      <link>https://soshageshin.pages.dev/games/nyanko/issues/2026-02-14/index.html</link>
+      <description>新レジェンドステージ＋超激レア追加＋コラボイベント</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>nyanko_2026-02-14</guid>
+    </item>
+    <item>
+      <title>Origin ローンチブリーフィング — 七つの大罪Origin</title>
+      <link>https://soshageshin.pages.dev/games/origin/issues/2026-02-14/index.html</link>
+      <description>サービス開始＋リセマラTier表＋序盤攻略ガイド</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>origin_2026-02-14</guid>
+    </item>
+    <item>
+      <title>オセロニア10周年号外 — オセロニア</title>
+      <link>https://soshageshin.pages.dev/games/othellonia/issues/2026-02-14/index.html</link>
+      <description>10周年＋新S+駒追加＋記念カップ開催</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>othellonia_2026-02-14</guid>
+    </item>
+    <item>
+      <title>パズドラZERO ガチャフリーの未来 — パズドラ</title>
+      <link>https://soshageshin.pages.dev/games/pad/issues/2026-02-14/index.html</link>
+      <description>ガチャ廃止宣言＋新育成システム「錬成」実装＋ランキングダンジョン改革</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>pad_2026-02-14</guid>
+    </item>
+    <item>
+      <title>パワスポ 週刊ゲームアプデ — パワスポ</title>
+      <link>https://soshageshin.pages.dev/games/pawaspo/issues/2026-02-14/index.html</link>
+      <description>新選手追加＋イベントマッチ＋育成システム改修</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>pawaspo_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ポケモン30周年カウントダウン — ポケモン</title>
+      <link>https://soshageshin.pages.dev/games/pokemon/issues/2026-02-14/index.html</link>
+      <description>30周年記念イベント詳細＋新ポケモン先行公開＋歴代シリーズ振り返り</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>pokemon_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ポコポコ ニュースフラッシュ — ポコポコ</title>
+      <link>https://soshageshin.pages.dev/games/pokopoko/issues/2026-02-14/index.html</link>
+      <description>新ステージ100面追加＋コラボイベント＋新ギミック実装</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>pokopoko_2026-02-14</guid>
+    </item>
+    <item>
+      <title>プリコネフェス2026 初日版 — プリコネ</title>
+      <link>https://soshageshin.pages.dev/games/priconne/issues/2026-02-14/index.html</link>
+      <description>フェス限定情報＋新キャラ＋アニメ新シーズン発表</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>priconne_2026-02-14</guid>
+    </item>
+    <item>
+      <title>セカイニュース 2026年2月号 — プロセカ</title>
+      <link>https://soshageshin.pages.dev/games/project-sekai/issues/2026-02-14/index.html</link>
+      <description>バレンタインイベント＋新楽曲5曲追加＋ランキング結果発表</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>project-sekai_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ロマサガRS デイリー速報 — ロマサガRS</title>
+      <link>https://soshageshin.pages.dev/games/romasaga/issues/2026-02-14/index.html</link>
+      <description>新キャラ追加＋イベントボス攻略＋ガチャ分析</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>romasaga_2026-02-14</guid>
+    </item>
+    <item>
+      <title>スケープス最適化デイリー — スケープス</title>
+      <link>https://soshageshin.pages.dev/games/scapes/issues/2026-02-14/index.html</link>
+      <description>新エリア開放＋パズルイベント＋デコレーション追加</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>scapes_2026-02-14</guid>
+    </item>
+    <item>
+      <title>シャドバ Worlds Beyond 新秩序 — シャドウバース</title>
+      <link>https://soshageshin.pages.dev/games/shadowverse/issues/2026-02-14/index.html</link>
+      <description>新拡張パック「Worlds Beyond」全カード評価＋環境予測＋デッキレシピ</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>shadowverse_2026-02-14</guid>
+    </item>
+    <item>
+      <title>トゥーンブラスト必須レポート — トゥーンブラスト</title>
+      <link>https://soshageshin.pages.dev/games/toonblast/issues/2026-02-14/index.html</link>
+      <description>新ステージ200面＋チームイベント＋新ブースター実装</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>toonblast_2026-02-14</guid>
+    </item>
+    <item>
+      <title>本丸号外 温重警報 — 刀剣乱舞</title>
+      <link>https://soshageshin.pages.dev/games/touken/issues/2026-02-14/index.html</link>
+      <description>新刀剣男士＋大型イベント＋極実装</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>touken_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ナイトレイヴン週報 — ツイステ</title>
+      <link>https://soshageshin.pages.dev/games/twisted/issues/2026-02-14/index.html</link>
+      <description>新章公開＋限定ガチャ＋試験イベント開催</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>twisted_2026-02-14</guid>
+    </item>
+    <item>
+      <title>ユナイトタイムズ速報 — ポケモンユナイト</title>
+      <link>https://soshageshin.pages.dev/games/unite/issues/2026-02-14/index.html</link>
+      <description>新ポケモン参戦＋バランスパッチ＋ランクシーズン更新</description>
+      <pubDate>2026-02-14</pubDate>
+      <guid>unite_2026-02-14</guid>
+    </item>
+    <item>
+      <title>幻妖新聞 特別号外 — ラグナドール</title>
+      <link>https://soshageshin.pages.dev/games/ragnador/issues/2026-02-13/index.html</link>
+      <description>「eラグナドール」e機化決定！2026年4月ホールへ進撃＋新コラボ発表</description>
+      <pubDate>2026-02-13</pubDate>
+      <guid>ragnador_2026-02-13</guid>
+    </item>
+  </channel>
+</rss>

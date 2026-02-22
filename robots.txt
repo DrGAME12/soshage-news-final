@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drgame12.github.io/soshage-news-final/sitemap.xml

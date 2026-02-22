@@ -1,0 +1,7 @@
+name = "soshageshin"
+compatibility_date = "2024-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "soshageshin-comments"
+database_id = "f9f92038-8872-4537-a8b2-8b0a8fbd1884"
