@@ -1,6 +1,6 @@
 // ============================================================
 //  SOSHAGESHIN — Games Registry (auto-generated)
-//  182 games registered
+//  183 games registered
 // ============================================================
 
 const GAMES = [
@@ -1082,6 +1082,24 @@ const GAMES = [
             summary: "フルールデイズ ユーザーが欲しい最新情報の最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/fleur/issues/2026-02-17/page-01.webp"
+        }
+    },
+    {
+        slug: "fortnite",
+        name: "フォートナイト",
+        nameEn: "Fortnite",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-22",
+            title: "フォートナイト 2026年最新ニュース＆攻略完全ガイド",
+            codename: "",
+            pageCount: 10,
+            summary: "フォートナイト2026年最新ニュース＋攻略完全ガイド＋シーズン情報まとめ",
+            tags: ["バトルロイヤル", "攻略ガイド", "最新情報"],
+            thumbnail: "games/fortnite/issues/2026-02-22/page-01.webp"
         }
     },
     {
