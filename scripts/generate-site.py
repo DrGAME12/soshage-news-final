@@ -199,13 +199,14 @@ GAME_TEMPLATE = '''<!DOCTYPE html>
 </html>'''
 
 ISSUE_ITEM = '''
-        <a class="issue-item" href="issues/{date}/index.html">
-          <span class="issue-item__date">{dateShort}</span>
-          <div>
+        <a class="issue-item issue-item--thumb" href="issues/{date}/index.html">
+          <div class="issue-item__thumb"><img src="issues/{date}/page-01.webp" alt="{title}" loading="lazy"></div>
+          <div class="issue-item__content">
+            <span class="issue-item__date">{dateShort}</span>
             <div class="issue-item__title">{title}</div>
             <div class="issue-item__summary">{summary}</div>
+            <span class="issue-item__pages">{pages} pages</span>
           </div>
-          <span class="issue-item__pages">{pages} pages</span>
         </a>'''
 
 # Collect all games
