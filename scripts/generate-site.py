@@ -79,9 +79,9 @@ VIEWER_TEMPLATE = '''<!DOCTYPE html>
   <meta property="og:title" content="{title} — ソシャゲ新聞">
   <meta property="og:description" content="{summary}">
   <meta property="og:type" content="article">
-  <meta property="og:image" content="page-01.webp">
+  <meta property="og:image" content="https://drgame12.github.io/soshage-news-final/games/{slug}/issues/{date}/page-01.webp">
   <meta name="twitter:card" content="summary_large_image">
-  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Article","headline":"{title}","datePublished":"{date}","publisher":{{"@type":"Organization","name":"ソシャゲ新聞"}},"image":"page-01.webp"}}</script>
+  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Article","headline":"{title}","datePublished":"{date}","publisher":{{"@type":"Organization","name":"ソシャゲ新聞"}},"image":"https://drgame12.github.io/soshage-news-final/games/{slug}/issues/{date}/page-01.webp"}}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&family=Oswald:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
@@ -164,7 +164,7 @@ GAME_TEMPLATE = '''<!DOCTYPE html>
   <title>{gameName} — ソシャゲ新聞</title>
   <meta name="description" content="{gameName}の最新アップデート情報">
   <meta property="og:title" content="{gameName} — ソシャゲ新聞">
-  <meta property="og:image" content="issues/{date}/page-01.webp">
+  <meta property="og:image" content="https://drgame12.github.io/soshage-news-final/games/{slug}/issues/{date}/page-01.webp">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="stylesheet" href="../../css/style.css">
 </head>
@@ -267,7 +267,7 @@ for slug in sorted(os.listdir(GAMES_DIR)):
     with open(game_page_path, "w", encoding="utf-8") as f:
         f.write(GAME_TEMPLATE.format(
             gameName=game_name, nameEn=name_en, genre=genre, icon=icon,
-            date=latest["issueDate"], issueItems=issue_items_html
+            date=latest["issueDate"], issueItems=issue_items_html, slug=slug
         ))
     
     has_icon_img = os.path.exists(os.path.join(game_path, "icon.png")) and os.path.getsize(os.path.join(game_path, "icon.png")) > 1000
