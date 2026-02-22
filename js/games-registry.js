@@ -1,6 +1,6 @@
 // ============================================================
 //  SOSHAGESHIN — Games Registry (auto-generated)
-//  183 games registered
+//  186 games registered
 // ============================================================
 
 const GAMES = [
@@ -57,6 +57,42 @@ const GAMES = [
             summary: "Age of Originsバレンタイン＆春節イベント攻略＋最新情報",
             tags: ["ストラテジー", "イベント攻略", "季節限定"],
             thumbnail: "games/age-of-origins/issues/2026-02-16/page-01.webp"
+        }
+    },
+    {
+        slug: "among-us",
+        name: "Among Us",
+        nameEn: "Among Us",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "Among Us 2026 最新ロードマップ＆攻略統計ガイド",
+            codename: "",
+            pageCount: 8,
+            summary: "Among Us 2026年最新ロードマップ＋攻略統計情報まとめ",
+            tags: ["マルチプレイ", "攻略ガイド", "最新情報"],
+            thumbnail: "games/among-us/issues/2026-02-23/page-01.webp"
+        }
+    },
+    {
+        slug: "apex-legends",
+        name: "Apex Legends",
+        nameEn: "Apex Legends",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "Apex Legends シーズン28 攻略・最新情報まとめ",
+            codename: "",
+            pageCount: 13,
+            summary: "Apex Legendsシーズン28攻略＋最新アプデ情報＋メタ分析",
+            tags: ["FPS", "バトルロイヤル", "攻略ガイド"],
+            thumbnail: "games/apex-legends/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -2787,6 +2823,24 @@ const GAMES = [
             summary: "Sonic Rumbleの最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/sonic-rumble/issues/2026-02-18/page-01.webp"
+        }
+    },
+    {
+        slug: "splatoon3",
+        name: "スプラトゥーン3",
+        nameEn: "Splatoon3",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "スプラトゥーン3 攻略・最新アップデート完全ガイド",
+            codename: "",
+            pageCount: 11,
+            summary: "スプラトゥーン3最新アプデ＋攻略完全ガイド＋新ステージ情報",
+            tags: ["シューター", "攻略ガイド", "最新情報"],
+            thumbnail: "games/splatoon3/issues/2026-02-23/page-01.webp"
         }
     },
     {
