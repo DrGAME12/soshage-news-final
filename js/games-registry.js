@@ -1,6 +1,6 @@
 // ============================================================
 //  SOSHAGESHIN — Games Registry (auto-generated)
-//  186 games registered
+//  193 games registered
 // ============================================================
 
 const GAMES = [
@@ -379,13 +379,13 @@ const GAMES = [
         icon: "🎮",
         iconImage: "games/brawl-stars/icon.png",
         latestIssue: {
-            date: "2026-02-16",
-            title: "ブロスタ トロフィー大改修＆最新動向",
-            codename: "Operation Brawl",
-            pageCount: 7,
-            summary: "ブロスタトロフィー大改修＋2月最新動向＋おすすめブロウラー",
-            tags: ["アクション", "大型アプデ", "最新動向"],
-            thumbnail: "games/brawl-stars/issues/2026-02-16/page-01.webp"
+            date: "2026-02-23",
+            title: "ブロスタ ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 12,
+            summary: "ブロスタ最新アプデ＋攻略情報まとめ",
+            tags: ["アクション", "最新情報"],
+            thumbnail: "games/brawl-stars/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -495,6 +495,24 @@ const GAMES = [
             summary: "カオスゼロナイトメア ユーザーが欲しい最新情報の最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/chaoszeronightmare/issues/2026-02-18/page-01.webp"
+        }
+    },
+    {
+        slug: "cod-mobile",
+        name: "Call of Duty: Mobile",
+        nameEn: "Cod Mobile",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-24",
+            title: "Call of Duty_ Mobile ユーザーが欲しい最新情報 2026-02-24",
+            codename: "",
+            pageCount: 11,
+            summary: "CoDモバイル最新アプデ＋攻略情報まとめ",
+            tags: ["FPS", "最新情報"],
+            thumbnail: "games/cod-mobile/issues/2026-02-24/page-01.webp"
         }
     },
     {
@@ -1129,13 +1147,13 @@ const GAMES = [
         color: "#607d8b",
         icon: "🎮",
         latestIssue: {
-            date: "2026-02-22",
-            title: "フォートナイト 2026年最新ニュース＆攻略完全ガイド",
+            date: "2026-02-23",
+            title: "Fortnite ユーザーが欲しい最新情報 2026-02-23",
             codename: "",
-            pageCount: 10,
-            summary: "フォートナイト2026年最新ニュース＋攻略完全ガイド＋シーズン情報まとめ",
-            tags: ["バトルロイヤル", "攻略ガイド", "最新情報"],
-            thumbnail: "games/fortnite/issues/2026-02-22/page-01.webp"
+            pageCount: 14,
+            summary: "フォートナイト最新アプデ＋攻略情報まとめ",
+            tags: ["バトルロイヤル", "最新情報"],
+            thumbnail: "games/fortnite/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -1440,13 +1458,13 @@ const GAMES = [
         icon: "🎭",
         iconImage: "games/identity-v/icon.png",
         latestIssue: {
-            date: "2026-02-14",
-            title: "第五人格タイムズ 週報",
-            codename: "Operation Masquerade",
-            pageCount: 7,
-            summary: "新サバイバー＋ランクマッチ調整＋シーズンイベント",
-            tags: ["新キャラ", "ランクマッチ", "シーズン"],
-            thumbnail: "games/identity-v/issues/2026-02-14/page-01.webp"
+            date: "2026-02-23",
+            title: "Identity V ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 15,
+            summary: "第五人格最新アプデ＋攻略情報まとめ",
+            tags: ["非対称対戦", "最新情報"],
+            thumbnail: "games/identity-v/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -1585,13 +1603,13 @@ const GAMES = [
         icon: "🎮",
         iconImage: "games/knives-out/icon.png",
         latestIssue: {
-            date: "2026-02-16",
-            title: "荒野行動 2月大型アプデ＆攻略指針",
-            codename: "Operation Wild Storm",
-            pageCount: 7,
-            summary: "荒野行動2月大型アップデート＋最新攻略指針＋新モード情報",
-            tags: ["バトルロイヤル", "大型アプデ", "攻略指針"],
-            thumbnail: "games/knives-out/issues/2026-02-16/page-01.webp"
+            date: "2026-02-23",
+            title: "荒野行動 ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 11,
+            summary: "荒野行動最新アプデ＋攻略情報まとめ",
+            tags: ["バトルロイヤル", "最新情報"],
+            thumbnail: "games/knives-out/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -1805,13 +1823,13 @@ const GAMES = [
         color: "#1b5e20",
         icon: "🀄",
         latestIssue: {
-            date: "2026-02-14",
-            title: "雀魂タイムズ 号外",
-            codename: "Operation Riichi",
-            pageCount: 8,
-            summary: "大型大会結果＋新キャラ＋段位戦調整",
-            tags: ["大会", "新キャラ", "段位戦"],
-            thumbnail: "games/mahjongsoul/issues/2026-02-14/page-01.webp"
+            date: "2026-02-24",
+            title: "雀魂 ユーザーが欲しい最新情報 2026-02-24",
+            codename: "",
+            pageCount: 12,
+            summary: "雀魂最新アプデ＋攻略情報まとめ",
+            tags: ["麻雀", "最新情報"],
+            thumbnail: "games/mahjongsoul/issues/2026-02-24/page-01.webp"
         }
     },
     {
@@ -1925,6 +1943,60 @@ const GAMES = [
         }
     },
     {
+        slug: "mh-rise-sunbreak",
+        name: "モンハンライズ：サンブレイク",
+        nameEn: "Mh Rise Sunbreak",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "モンハンライズ：サンブレイク ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 15,
+            summary: "モンハンライズ：サンブレイク最新情報＋攻略まとめ",
+            tags: ["アクション", "最新情報"],
+            thumbnail: "games/mh-rise-sunbreak/issues/2026-02-23/page-01.webp"
+        }
+    },
+    {
+        slug: "minecraft",
+        name: "Minecraft",
+        nameEn: "Minecraft",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "Minecraft ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 11,
+            summary: "Minecraft最新アプデ＋攻略情報まとめ",
+            tags: ["サンドボックス", "最新情報"],
+            thumbnail: "games/minecraft/issues/2026-02-23/page-01.webp"
+        }
+    },
+    {
+        slug: "mobile-legends",
+        name: "モバイル・レジェンド",
+        nameEn: "Mobile Legends",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "モバイル・レジェンド_ Bang Bang ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 15,
+            summary: "モバレジェ最新アプデ＋攻略情報まとめ",
+            tags: ["MOBA", "最新情報"],
+            thumbnail: "games/mobile-legends/issues/2026-02-23/page-01.webp"
+        }
+    },
+    {
         slug: "moemoe",
         name: "モエモエディフェンダーズ",
         nameEn: "Moemoe",
@@ -1952,13 +2024,13 @@ const GAMES = [
         icon: "🔮",
         iconImage: "games/monster-strike/icon.png",
         latestIssue: {
-            date: "2026-02-14",
-            title: "モンスト2月戦報",
-            codename: "Operation Strike Force",
-            pageCount: 10,
-            summary: "新超絶クエスト追加＋獣神化改キャラ情報＋コラボイベント速報",
-            tags: ["超絶クエスト", "獣神化改", "コラボ"],
-            thumbnail: "games/monster-strike/issues/2026-02-14/page-01.webp"
+            date: "2026-02-23",
+            title: "モンスターストライク ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 14,
+            summary: "モンスト最新アプデ＋攻略情報まとめ",
+            tags: ["アクションRPG", "最新情報"],
+            thumbnail: "games/monster-strike/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -2330,6 +2402,24 @@ const GAMES = [
         }
     },
     {
+        slug: "pokemon-tcg-pocket",
+        name: "ポケモンTCGポケット",
+        nameEn: "Pokemon Tcg Pocket",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "Pokemon TCG Pocket ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 9,
+            summary: "ポケモンTCGポケット最新情報＋攻略まとめ",
+            tags: ["カードゲーム", "最新情報"],
+            thumbnail: "games/pokemon-tcg-pocket/issues/2026-02-23/page-01.webp"
+        }
+    },
+    {
         slug: "poko-a-pokemon",
         name: "ぽこ あ ポケモン",
         nameEn: "Poko A Pokemon",
@@ -2414,13 +2504,13 @@ const GAMES = [
         icon: "🎮",
         iconImage: "games/prospi-a/icon.png",
         latestIssue: {
-            date: "2026-02-15",
-            title: "プロスピA 7000万DL福袋＆必勝攻略",
-            codename: "Operation Grand Slam",
-            pageCount: 9,
-            summary: "プロスピA 7000万DL記念福袋＋攻略必勝ガイド＋おすすめ選手評価",
-            tags: ["スポーツ", "記念イベント", "攻略ガイド"],
-            thumbnail: "games/prospi-a/issues/2026-02-15/page-01.webp"
+            date: "2026-02-23",
+            title: "プロ野球スピリッツA ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 11,
+            summary: "プロスピA最新アプデ＋攻略情報まとめ",
+            tags: ["スポーツ", "最新情報"],
+            thumbnail: "games/prospi-a/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -2476,6 +2566,24 @@ const GAMES = [
             summary: "「eラグナドール」e機化決定！2026年4月ホールへ進撃＋新コラボ発表",
             tags: ["e機化", "新コラボ", "特別号外"],
             thumbnail: "games/ragnador/issues/2026-02-13/page-01.webp"
+        }
+    },
+    {
+        slug: "rainbow-six-mobile",
+        name: "レインボーシックス モバイル",
+        nameEn: "Rainbow Six Mobile",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "レインボーシックス モバイル：2026年グローバル展開の全貌",
+            codename: "",
+            pageCount: 12,
+            summary: "R6モバイル2026年グローバル展開＋最新情報",
+            tags: ["FPS", "最新情報"],
+            thumbnail: "games/rainbow-six-mobile/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -2805,6 +2913,24 @@ const GAMES = [
             summary: "終境シンフォニー～崩壊と再生の記憶～ ユーザーが欲しい最新情報の最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/shukyousymphony/issues/2026-02-18/page-01.webp"
+        }
+    },
+    {
+        slug: "smash-bros-sp",
+        name: "大乱闘スマッシュブラザーズ SPECIAL",
+        nameEn: "Smash Bros Sp",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "大乱闘スマッシュブラザーズ SPECIAL ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 14,
+            summary: "スマブラSP最新情報＋攻略まとめ",
+            tags: ["格闘アクション", "最新情報"],
+            thumbnail: "games/smash-bros-sp/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -3192,20 +3318,20 @@ const GAMES = [
     },
     {
         slug: "valorant",
-        name: "VALORANT Mobile",
+        name: "VALORANT",
         nameEn: "VALORANT Mobile",
         genre: "タクティカルFPS",
         status: "active",
         color: "#ff4655",
         icon: "🎯",
         latestIssue: {
-            date: "2026-02-15",
-            title: "VALORANT Mobile 中国成功・日本沈黙",
-            codename: "Operation Silent Storm",
-            pageCount: 10,
-            summary: "VALORANT Mobile中国展開の成功事例＋日本市場の課題分析＋最新Act情報",
-            tags: ["FPS", "グローバル展開", "市場分析"],
-            thumbnail: "games/valorant/issues/2026-02-15/page-01.webp"
+            date: "2026-02-23",
+            title: "VALORANT ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 13,
+            summary: "VALORANT最新アプデ＋攻略情報まとめ",
+            tags: ["FPS", "最新情報"],
+            thumbnail: "games/valorant/issues/2026-02-23/page-01.webp"
         }
     },
     {
@@ -3218,13 +3344,13 @@ const GAMES = [
         icon: "🌟",
         iconImage: "games/version64/icon.png",
         latestIssue: {
-            date: "2026-02-15",
-            title: "原神 Ver.6.4 帰郷ブリーフィング",
-            codename: "Operation Homecoming",
-            pageCount: 12,
-            summary: "原神Ver.6.4帰郷アップデート詳細＋新キャラ＋イベント情報",
-            tags: ["オープンワールド", "大型アプデ", "新キャラ"],
-            thumbnail: "games/version64/issues/2026-02-15/page-01.webp"
+            date: "2026-02-23",
+            title: "原神 ユーザーが欲しい最新情報 2026-02-23",
+            codename: "",
+            pageCount: 13,
+            summary: "原神最新アプデ＋攻略情報まとめ",
+            tags: ["オープンワールド", "最新情報"],
+            thumbnail: "games/version64/issues/2026-02-23/page-01.webp"
         }
     },
     {
