@@ -1,6 +1,6 @@
 // ============================================================
 //  SOSHAGESHIN — Games Registry (auto-generated)
-//  193 games registered
+//  194 games registered
 // ============================================================
 
 const GAMES = [
@@ -1196,20 +1196,20 @@ const GAMES = [
     },
     {
         slug: "gbo2",
-        name: "ガンダムバトルオペレーション2",
+        name: "バトオペ2",
         nameEn: "Gbo2",
         genre: "ゲーム",
         status: "active",
         color: "#607d8b",
         icon: "🎮",
         latestIssue: {
-            date: "2026-02-22",
-            title: "ガンダムバトオペ2 戦略アップデート2026",
-            codename: "Operation Battle Operation",
-            pageCount: 12,
-            summary: "ガンダムバトルオペレーション2最新戦略アップデート＋新機体＋環境分析",
-            tags: ["アクション", "アプデ情報", "新機体"],
-            thumbnail: "games/gbo2/issues/2026-02-22/page-01.webp"
+            date: "2026-02-25",
+            title: "バトオペ2攻略：アップデートとキャンペーン最新情報",
+            codename: "",
+            pageCount: 7,
+            summary: "バトオペ2攻略＋アップデート＋キャンペーン最新情報",
+            tags: ["アクション", "攻略ガイド"],
+            thumbnail: "games/gbo2/issues/2026-02-25/page-01.webp"
         }
     },
     {
@@ -2949,6 +2949,24 @@ const GAMES = [
             summary: "Sonic Rumbleの最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/sonic-rumble/issues/2026-02-18/page-01.webp"
+        }
+    },
+    {
+        slug: "splatoon2",
+        name: "スプラトゥーン2",
+        nameEn: "Splatoon2",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "スプラトゥーン2 ユーザーが欲しい最新情報 2026-02-25",
+            codename: "",
+            pageCount: 8,
+            summary: "スプラトゥーン2最新情報＋攻略まとめ",
+            tags: ["シューター", "最新情報"],
+            thumbnail: "games/splatoon2/issues/2026-02-25/page-01.webp"
         }
     },
     {
