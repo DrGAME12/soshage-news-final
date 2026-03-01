@@ -1,6 +1,6 @@
 // ============================================================
 //  SOSHAGESHIN — Games Registry (auto-generated)
-//  194 games registered
+//  221 games registered
 // ============================================================
 
 const GAMES = [
@@ -41,6 +41,24 @@ const GAMES = [
         }
     },
     {
+        slug: "a3",
+        name: "A3!",
+        nameEn: "A3",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "A3! 最新情報",
+            codename: "",
+            pageCount: 8,
+            summary: "A3!の最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/a3/issues/2026-02-28/page-01.webp"
+        }
+    },
+    {
         slug: "age-of-origins",
         name: "Age of Origins",
         nameEn: "Age Of Origins",
@@ -57,6 +75,24 @@ const GAMES = [
             summary: "Age of Originsバレンタイン＆春節イベント攻略＋最新情報",
             tags: ["ストラテジー", "イベント攻略", "季節限定"],
             thumbnail: "games/age-of-origins/issues/2026-02-16/page-01.webp"
+        }
+    },
+    {
+        slug: "akuma-paradise",
+        name: "あく★パラ Akuma's Paradise",
+        nameEn: "Akuma Paradise",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "あく★パラ ～Akuma's Paradise～ 最新情報",
+            codename: "",
+            pageCount: 5,
+            summary: "あく★パラ Akuma's Paradiseの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/akuma-paradise/issues/2026-02-25/page-01.webp"
         }
     },
     {
@@ -298,6 +334,24 @@ const GAMES = [
         }
     },
     {
+        slug: "blue-oath",
+        name: "蒼藍の誓い ブルーオース",
+        nameEn: "Blue Oath",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "蒼藍の誓い - ブルーオース 最新情報",
+            codename: "",
+            pageCount: 9,
+            summary: "蒼藍の誓い ブルーオースの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/blue-oath/issues/2026-02-28/page-01.webp"
+        }
+    },
+    {
         slug: "blueprotocol",
         name: "ブループロトコル：スターレゾナンス",
         nameEn: "Blueprotocol",
@@ -331,24 +385,6 @@ const GAMES = [
             summary: "バウンティラッシュ7周年記念＋黒ひげ参戦情報＋報酬攻略ガイド",
             tags: ["アクション", "周年記念", "新キャラ"],
             thumbnail: "games/bounty-rush/issues/2026-02-15/page-01.webp"
-        }
-    },
-    {
-        slug: "brave",
-        name: "ブレイブ",
-        nameEn: "Brave",
-        genre: "ゲーム",
-        status: "active",
-        color: "#607d8b",
-        icon: "🎮",
-        latestIssue: {
-            date: "2026-02-18",
-            title: "ブレイブ ユーザーが欲しい最新情報",
-            codename: "",
-            pageCount: 10,
-            summary: "ブレイブ ユーザーが欲しい最新情報の最新情報まとめ",
-            tags: ["最新情報"],
-            thumbnail: "games/brave/issues/2026-02-18/page-01.webp"
         }
     },
     {
@@ -389,6 +425,24 @@ const GAMES = [
         }
     },
     {
+        slug: "browndust2",
+        name: "ブラウンダスト2",
+        nameEn: "Browndust2",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "ブラウンダスト2 最新情報",
+            codename: "",
+            pageCount: 13,
+            summary: "ブラウンダスト2の最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/browndust2/issues/2026-02-28/page-01.webp"
+        }
+    },
+    {
         slug: "browser-sangoku-ten",
         name: "ブラウザ三国志 天",
         nameEn: "Browser Sangoku Ten",
@@ -404,24 +458,6 @@ const GAMES = [
             summary: "ブラウザ三国志天最新情報＋攻略＋アップデートまとめ",
             tags: ["ストラテジー", "三国志", "最新情報"],
             thumbnail: "games/browser-sangoku-ten/issues/2026-02-22/page-01.webp"
-        }
-    },
-    {
-        slug: "browsersangoku",
-        name: "ブラウザ三国志",
-        nameEn: "Browsersangoku",
-        genre: "ゲーム",
-        status: "active",
-        color: "#607d8b",
-        icon: "🎮",
-        latestIssue: {
-            date: "2026-02-18",
-            title: "ブラウザ三国志 ユーザーが欲しい最新情報",
-            codename: "",
-            pageCount: 8,
-            summary: "ブラウザ三国志 ユーザーが欲しい最新情報の最新情報まとめ",
-            tags: ["最新情報"],
-            thumbnail: "games/browsersangoku/issues/2026-02-18/page-01.webp"
         }
     },
     {
@@ -458,6 +494,24 @@ const GAMES = [
             summary: "Cairn ユーザーが欲しい最新情報の最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/cairn/issues/2026-02-17/page-01.webp"
+        }
+    },
+    {
+        slug: "calorie-mate-jelly-mission",
+        name: "Calorie Mate JELLY MISSION",
+        nameEn: "Calorie Mate Jelly Mission",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "Calorie Mate FOR GAME CREATORS - JELLY MISSION - 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "Calorie Mate JELLY MISSIONの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/calorie-mate-jelly-mission/issues/2026-02-25/page-01.webp"
         }
     },
     {
@@ -717,6 +771,24 @@ const GAMES = [
         }
     },
     {
+        slug: "dffoo",
+        name: "ディシディア FF オペラオムニア",
+        nameEn: "Dffoo",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "ディシディア ファイナルファンタジー オペラオムニア 最新情報",
+            codename: "",
+            pageCount: 10,
+            summary: "ディシディア FF オペラオムニアの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/dffoo/issues/2026-03-01/page-01.webp"
+        }
+    },
+    {
         slug: "dokkan",
         name: "ドッカンバトル",
         nameEn: "Dokkan Battle",
@@ -788,6 +860,24 @@ const GAMES = [
             summary: "新高難度クエスト＋才能開花追加＋闘技場シーズン更新",
             tags: ["高難度", "才能開花", "闘技場"],
             thumbnail: "games/dqtact/issues/2026-02-14/page-01.webp"
+        }
+    },
+    {
+        slug: "dragalia-lost",
+        name: "ドラガリアロスト",
+        nameEn: "Dragalia Lost",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "ドラガリアロスト 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "ドラガリアロストの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/dragalia-lost/issues/2026-03-01/page-01.webp"
         }
     },
     {
@@ -1213,6 +1303,24 @@ const GAMES = [
         }
     },
     {
+        slug: "genshin",
+        name: "原神",
+        nameEn: "Genshin",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-23",
+            title: "原神 最新情報",
+            codename: "",
+            pageCount: 13,
+            summary: "原神の最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/genshin/issues/2026-02-23/page-01.webp"
+        }
+    },
+    {
         slug: "ggene-eternal",
         name: "SDガンダム Gジェネレーション エターナル",
         nameEn: "Ggene Eternal",
@@ -1504,6 +1612,24 @@ const GAMES = [
         }
     },
     {
+        slug: "jan-evolive",
+        name: "雀エボライブ",
+        nameEn: "Jan Evolive",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "雀エボライブ 最新情報",
+            codename: "",
+            pageCount: 8,
+            summary: "雀エボライブの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/jan-evolive/issues/2026-02-25/page-01.webp"
+        }
+    },
+    {
         slug: "jigokuraku",
         name: "地獄楽 パラダイスバトル",
         nameEn: "Jigokuraku",
@@ -1519,6 +1645,24 @@ const GAMES = [
             summary: "地獄楽 パラダイスバトルの最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/jigokuraku/issues/2026-02-18/page-01.webp"
+        }
+    },
+    {
+        slug: "jojo-ora-ora",
+        name: "ジョジョの奇妙な冒険 オラオラオーバードライブ",
+        nameEn: "Jojo Ora Ora",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "ジョジョの奇妙な冒険 オラオラオーバードライブ 最新情報",
+            codename: "",
+            pageCount: 8,
+            summary: "ジョジョの奇妙な冒険 オラオラオーバードライブの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/jojo-ora-ora/issues/2026-02-25/page-01.webp"
         }
     },
     {
@@ -1631,6 +1775,42 @@ const GAMES = [
         }
     },
     {
+        slug: "kof-allstar",
+        name: "KOF ALLSTAR",
+        nameEn: "Kof Allstar",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "KOF ALLSTAR 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "KOF ALLSTARの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/kof-allstar/issues/2026-03-01/page-01.webp"
+        }
+    },
+    {
+        slug: "last-origin",
+        name: "ラストオリジン",
+        nameEn: "Last Origin",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "ラストオリジン 最新情報",
+            codename: "",
+            pageCount: 12,
+            summary: "ラストオリジンの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/last-origin/issues/2026-02-28/page-01.webp"
+        }
+    },
+    {
         slug: "last-war",
         name: "ラストウォー：サバイバル",
         nameEn: "Last War",
@@ -1722,6 +1902,24 @@ const GAMES = [
         }
     },
     {
+        slug: "limbus-company",
+        name: "Limbus Company",
+        nameEn: "Limbus Company",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "Limbus Company 最新情報",
+            codename: "",
+            pageCount: 15,
+            summary: "Limbus Companyの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/limbus-company/issues/2026-02-28/page-01.webp"
+        }
+    },
+    {
         slug: "line-pop2",
         name: "LINE POP2",
         nameEn: "Line Pop2",
@@ -1759,6 +1957,42 @@ const GAMES = [
         }
     },
     {
+        slug: "lineage2m",
+        name: "リネージュ2M",
+        nameEn: "Lineage2M",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "リネージュ2M 最新情報",
+            codename: "",
+            pageCount: 12,
+            summary: "リネージュ2Mの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/lineage2m/issues/2026-03-01/page-01.webp"
+        }
+    },
+    {
+        slug: "lineagew",
+        name: "リネージュW",
+        nameEn: "Lineagew",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "リネージュW 最新情報",
+            codename: "",
+            pageCount: 9,
+            summary: "リネージュWの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/lineagew/issues/2026-03-01/page-01.webp"
+        }
+    },
+    {
         slug: "lords-mobile",
         name: "ロードモバイル",
         nameEn: "Lords Mobile",
@@ -1775,6 +2009,42 @@ const GAMES = [
             summary: "ロードモバイル10周年＋春節イベント攻略ToDoガイド＋おすすめ戦略",
             tags: ["ストラテジー", "周年記念", "春節イベント"],
             thumbnail: "games/lords-mobile/issues/2026-02-16/page-01.webp"
+        }
+    },
+    {
+        slug: "lovelive-sif2",
+        name: "ラブライブ！スクールアイドルフェスティバル2",
+        nameEn: "Lovelive Sif2",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "ラブライブ！スクールアイドルフェスティバル2 最新情報",
+            codename: "",
+            pageCount: 8,
+            summary: "ラブライブ！スクールアイドルフェスティバル2の最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/lovelive-sif2/issues/2026-03-01/page-01.webp"
+        }
+    },
+    {
+        slug: "lovelive-sifas",
+        name: "ラブライブ！スクフェス ALL STARS",
+        nameEn: "Lovelive Sifas",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "ラブライブ！スクフェス ALL STARS 最新情報",
+            codename: "",
+            pageCount: 10,
+            summary: "ラブライブ！スクフェス ALL STARSの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/lovelive-sifas/issues/2026-03-01/page-01.webp"
         }
     },
     {
@@ -1812,6 +2082,24 @@ const GAMES = [
             summary: "マフィア・シティ2月攻略ガイド＋最新イベント＋効率的な勢力拡大",
             tags: ["ストラテジー", "攻略ガイド", "イベント"],
             thumbnail: "games/mafia-city/issues/2026-02-15/page-01.webp"
+        }
+    },
+    {
+        slug: "magicami",
+        name: "マジカミ",
+        nameEn: "Magicami",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "マジカミ 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "マジカミの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/magicami/issues/2026-02-28/page-01.webp"
         }
     },
     {
@@ -2034,6 +2322,24 @@ const GAMES = [
         }
     },
     {
+        slug: "mu-pocket-knights",
+        name: "ミュー ポケットナイツ",
+        nameEn: "Mu Pocket Knights",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "ミュー：ポケットナイツ 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "ミュー ポケットナイツの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/mu-pocket-knights/issues/2026-02-25/page-01.webp"
+        }
+    },
+    {
         slug: "naruto-ninja",
         name: "NARUTO×BORUTO 忍者",
         nameEn: "Naruto Ninja",
@@ -2067,6 +2373,24 @@ const GAMES = [
             summary: "Necesse最新アップデート＋攻略＋ゲーム情報まとめ",
             tags: ["サンドボックス", "サバイバル", "最新情報"],
             thumbnail: "games/necesse/issues/2026-02-22/page-01.webp"
+        }
+    },
+    {
+        slug: "nier-reincarnation",
+        name: "NieR Re[in]carnation",
+        nameEn: "Nier Reincarnation",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-03-01",
+            title: "NieR Re in carnation 最新情報",
+            codename: "",
+            pageCount: 10,
+            summary: "NieR Re[in]carnationの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/nier-reincarnation/issues/2026-03-01/page-01.webp"
         }
     },
     {
@@ -2383,6 +2707,24 @@ const GAMES = [
         }
     },
     {
+        slug: "pocket-camp",
+        name: "どうぶつの森 ポケットキャンプ",
+        nameEn: "Pocket Camp",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "どうぶつの森 ポケットキャンプ コンプリート 最新情報",
+            codename: "",
+            pageCount: 15,
+            summary: "どうぶつの森 ポケットキャンプの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/pocket-camp/issues/2026-02-28/page-01.webp"
+        }
+    },
+    {
         slug: "pokemon",
         name: "ポケモン",
         nameEn: "Pokémon",
@@ -2399,6 +2741,24 @@ const GAMES = [
             summary: "30周年記念イベント詳細＋新ポケモン先行公開＋歴代シリーズ振り返り",
             tags: ["30周年", "新ポケモン", "記念イベント"],
             thumbnail: "games/pokemon/issues/2026-02-14/page-01.webp"
+        }
+    },
+    {
+        slug: "pokemon-sleep",
+        name: "Pokémon Sleep",
+        nameEn: "Pokemon Sleep",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "Pokémon Sleep 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "Pokémon Sleepの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/pokemon-sleep/issues/2026-02-28/page-01.webp"
         }
     },
     {
@@ -2577,13 +2937,13 @@ const GAMES = [
         color: "#607d8b",
         icon: "🎮",
         latestIssue: {
-            date: "2026-02-23",
-            title: "レインボーシックス モバイル：2026年グローバル展開の全貌",
+            date: "2026-03-01",
+            title: "レインボーシックス モバイル：2026年グローバル展開の全貌 最新情報",
             codename: "",
             pageCount: 12,
-            summary: "R6モバイル2026年グローバル展開＋最新情報",
-            tags: ["FPS", "最新情報"],
-            thumbnail: "games/rainbow-six-mobile/issues/2026-02-23/page-01.webp"
+            summary: "レインボーシックス モバイルの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/rainbow-six-mobile/issues/2026-03-01/page-01.webp"
         }
     },
     {
@@ -2602,6 +2962,24 @@ const GAMES = [
             summary: "思い出のラーメン食堂最新情報＋攻略＋レシピまとめ",
             tags: ["シミュレーション", "経営", "最新情報"],
             thumbnail: "games/ramen-shokudo/issues/2026-02-22/page-01.webp"
+        }
+    },
+    {
+        slug: "rhythm-hive",
+        name: "Rhythm Hive",
+        nameEn: "Rhythm Hive",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "Rhythm Hive Official 最新情報",
+            codename: "",
+            pageCount: 9,
+            summary: "Rhythm Hiveの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/rhythm-hive/issues/2026-02-28/page-01.webp"
         }
     },
     {
@@ -2807,6 +3185,24 @@ const GAMES = [
         }
     },
     {
+        slug: "scoop-hero",
+        name: "スコップヒーロー",
+        nameEn: "Scoop Hero",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "スコップヒーロー 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "スコップヒーローの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/scoop-hero/issues/2026-02-25/page-01.webp"
+        }
+    },
+    {
         slug: "seaside-escape",
         name: "Seaside Escape",
         nameEn: "Seaside Escape",
@@ -2879,6 +3275,24 @@ const GAMES = [
         }
     },
     {
+        slug: "seven-knights-rebirth",
+        name: "セブンナイツ Re:BIRTH",
+        nameEn: "Seven Knights Rebirth",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "セブンナイツ Re_BIRTH 最新情報",
+            codename: "",
+            pageCount: 9,
+            summary: "セブンナイツ Re:BIRTHの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/seven-knights-rebirth/issues/2026-02-25/page-01.webp"
+        }
+    },
+    {
         slug: "shadowverse",
         name: "シャドウバース",
         nameEn: "Shadowverse",
@@ -2898,6 +3312,24 @@ const GAMES = [
         }
     },
     {
+        slug: "shin-sangokumusou-ha",
+        name: "真・三國無双 覇",
+        nameEn: "Shin Sangokumusou Ha",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "真・三國無双 覇 最新情報",
+            codename: "",
+            pageCount: 11,
+            summary: "真・三國無双 覇の最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/shin-sangokumusou-ha/issues/2026-02-25/page-01.webp"
+        }
+    },
+    {
         slug: "shukyousymphony",
         name: "終境シンフォニー～崩壊と再生の記憶～",
         nameEn: "Shukyousymphony",
@@ -2913,6 +3345,42 @@ const GAMES = [
             summary: "終境シンフォニー～崩壊と再生の記憶～ ユーザーが欲しい最新情報の最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/shukyousymphony/issues/2026-02-18/page-01.webp"
+        }
+    },
+    {
+        slug: "shutoko-battle",
+        name: "首都高バトル",
+        nameEn: "Shutoko Battle",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "首都高バトル 最新情報",
+            codename: "",
+            pageCount: 8,
+            summary: "首都高バトルの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/shutoko-battle/issues/2026-02-25/page-01.webp"
+        }
+    },
+    {
+        slug: "slime-rancher-2",
+        name: "Slime Rancher 2",
+        nameEn: "Slime Rancher 2",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-25",
+            title: "Slime Rancher 2 最新情報",
+            codename: "",
+            pageCount: 15,
+            summary: "Slime Rancher 2の最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/slime-rancher-2/issues/2026-02-25/page-01.webp"
         }
     },
     {
@@ -3094,6 +3562,24 @@ const GAMES = [
             summary: "サンシャイン牧場2 ユーザーが欲しい最新情報の最新情報まとめ",
             tags: ["最新情報"],
             thumbnail: "games/sunshinefarm2/issues/2026-02-17/page-01.webp"
+        }
+    },
+    {
+        slug: "tales-of-the-rays",
+        name: "テイルズ オブ ザレイズ",
+        nameEn: "Tales Of The Rays",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "テイルズ オブ ザレイズ 最新情報",
+            codename: "",
+            pageCount: 13,
+            summary: "テイルズ オブ ザレイズの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/tales-of-the-rays/issues/2026-02-28/page-01.webp"
         }
     },
     {
@@ -3299,24 +3785,6 @@ const GAMES = [
         }
     },
     {
-        slug: "unknown",
-        name: "この世界には死亡フラグが多すぎる！",
-        nameEn: "Unknown",
-        genre: "ゲーム",
-        status: "active",
-        color: "#607d8b",
-        icon: "🎮",
-        latestIssue: {
-            date: "2026-02-18",
-            title: "この世界には死亡フラグが多すぎる！ ユーザーが欲しい最新情報",
-            codename: "",
-            pageCount: 12,
-            summary: "この世界には死亡フラグが多すぎる！ ユーザーが欲しい最新情報の最新情報まとめ",
-            tags: ["最新情報"],
-            thumbnail: "games/unknown/issues/2026-02-18/page-01.webp"
-        }
-    },
-    {
         slug: "unveil-the-world",
         name: "unVEIL the world",
         nameEn: "Unveil The World",
@@ -3460,6 +3928,24 @@ const GAMES = [
             summary: "ウィザードリィダフネ2月ロードマップ＋新ダンジョン＋攻略ポイント",
             tags: ["ダンジョンRPG", "ロードマップ", "攻略"],
             thumbnail: "games/wizardry-daphne/issues/2026-02-15/page-01.webp"
+        }
+    },
+    {
+        slug: "world-flipper",
+        name: "ワールドフリッパー",
+        nameEn: "World Flipper",
+        genre: "ゲーム",
+        status: "active",
+        color: "#607d8b",
+        icon: "🎮",
+        latestIssue: {
+            date: "2026-02-28",
+            title: "ワールドフリッパー 最新情報",
+            codename: "",
+            pageCount: 13,
+            summary: "ワールドフリッパーの最新攻略・アップデート情報まとめ",
+            tags: ["最新情報", "攻略"],
+            thumbnail: "games/world-flipper/issues/2026-02-28/page-01.webp"
         }
     },
     {
