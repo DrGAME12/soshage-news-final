@@ -1293,13 +1293,13 @@ const GAMES = [
         color: "#607d8b",
         icon: "🎮",
         latestIssue: {
-            date: "2026-02-25",
-            title: "バトオペ2攻略：アップデートとキャンペーン最新情報",
+            date: "2026-03-02",
+            title: "バトオペ2 バルバトスルプス参戦と最新機体データ集",
             codename: "",
-            pageCount: 7,
-            summary: "バトオペ2攻略＋アップデート＋キャンペーン最新情報",
-            tags: ["アクション", "攻略ガイド"],
-            thumbnail: "games/gbo2/issues/2026-02-25/page-01.webp"
+            pageCount: 5,
+            summary: "バトオペ2最新情報：バルバトスルプス参戦＋最新機体データ集",
+            tags: ["アクション", "最新情報", "攻略"],
+            thumbnail: "games/gbo2/issues/2026-03-02/page-01.webp"
         }
     },
     {
