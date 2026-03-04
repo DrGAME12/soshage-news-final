@@ -122,13 +122,13 @@ const GAMES = [
         color: "#607d8b",
         icon: "🎮",
         latestIssue: {
-            date: "2026-02-23",
-            title: "Apex Legends シーズン28 攻略・最新情報まとめ",
+            date: "2026-03-04",
+            title: "Apex Legends  ガンダム 究極の戦場コラボ",
             codename: "",
-            pageCount: 13,
-            summary: "Apex Legendsシーズン28攻略＋最新アプデ情報＋メタ分析",
-            tags: ["FPS", "バトルロイヤル", "攻略ガイド"],
-            thumbnail: "games/apex-legends/issues/2026-02-23/page-01.webp"
+            pageCount: 8,
+            summary: "Apex Legendsとガンダムの究極コラボイベント情報まとめ",
+            tags: ["FPS", "コラボ", "最新情報"],
+            thumbnail: "games/apex-legends/issues/2026-03-04/page-05.webp"
         }
     },
     {

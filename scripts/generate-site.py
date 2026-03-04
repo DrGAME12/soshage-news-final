@@ -200,7 +200,7 @@ GAME_TEMPLATE = '''<!DOCTYPE html>
 
 ISSUE_ITEM = '''
         <a class="issue-item issue-item--thumb" href="issues/{date}/index.html">
-          <div class="issue-item__thumb"><img src="issues/{date}/page-01.webp" alt="{title}" loading="lazy"></div>
+          <div class="issue-item__thumb"><img src="issues/{date}/{thumbFile}" alt="{title}" loading="lazy"></div>
           <div class="issue-item__content">
             <span class="issue-item__date">{dateShort}</span>
             <div class="issue-item__title">{title}</div>
@@ -257,10 +257,12 @@ for slug in sorted(os.listdir(GAMES_DIR)):
     # Generate game page
     issue_items_html = ""
     for issue in issues:
+        tp = issue.get("thumbnailPage", 1)
         issue_items_html += ISSUE_ITEM.format(
             date=issue["issueDate"], dateShort=issue["issueDate"][5:],
             title=issue["title"], summary=issue.get("summary", ""),
-            pages=issue["pageCount"]
+            pages=issue["pageCount"],
+            thumbFile=f"page-{tp:02d}.webp"
         )
     
     game_page_path = os.path.join(game_path, "index.html")
@@ -283,6 +285,7 @@ for slug in sorted(os.listdir(GAMES_DIR)):
 registry_entries = []
 for g in all_games:
     lat = g["latest"]
+    tp = lat.get("thumbnailPage", 1)
     tags_js = ", ".join([f'"{t}"' for t in lat.get("tags", [])])
     icon_img_line = f'\n        iconImage: "games/{g["slug"]}/icon.png",' if g['hasIconImage'] else ''
     entry = f'''    {{
@@ -300,7 +303,7 @@ for g in all_games:
             pageCount: {lat['pageCount']},
             summary: "{lat.get('summary', '')}",
             tags: [{tags_js}],
-            thumbnail: "games/{g['slug']}/issues/{lat['issueDate']}/page-01.webp"
+            thumbnail: "games/{g['slug']}/issues/{lat['issueDate']}/page-{tp:02d}.webp"
         }}
     }}'''
     registry_entries.append(entry)
